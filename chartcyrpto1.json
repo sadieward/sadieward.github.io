@@ -8,17 +8,17 @@
   "subtitleFontStyle":"italic",
   "subtitleFontSize":10,
   "anchor": "start",
-  "color": "#179fdb",
-  "subtitleColor":"#179fdb"},
+  "color": "#0d0d0d",
+  "subtitleColor":"#0d0e0e"},
 
 "config": {
-  "background":"#122b39",
+  "background":"whitesmoke",
   "view": {
     "stroke": "transparent"}},
 
 
 
-  "width":290,
+  "width":265,
   "height":300,
 
 
@@ -31,7 +31,7 @@
   "type": "line",
   "point": false,
   "interpolate": "linear",
-  "color":"#f4c245"
+  "color":"#314686"
 },
 
 
@@ -76,7 +76,7 @@
       "grid": false,
       "labelSeparation": 10,
       "domainColor":"dimgrey",
-      "labelColor":"#00a767",
+      "labelColor":"#0a0e0c",
       "tickColor":"pink",
       "gridColor":"dimgrey"
     }},
@@ -88,7 +88,7 @@
     "axis": {
       "grid": false,
       "domainColor":"dimgrey",
-      "labelColor":"#00a767",
+      "labelColor":"#0b0b0b",
       "tickColor":"pink",
       "gridColor":"dimgrey",
       "format":"$,.5"}
