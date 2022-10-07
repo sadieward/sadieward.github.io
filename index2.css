@@ -10,7 +10,7 @@
 
 /* Set the background color for my page: */
 body{
-    background-color: rgb(211, 230, 232);
+    background-color: rgb(227, 236, 237);
  
 }
 
@@ -33,7 +33,7 @@ h2, p{
 .myWeek1{
     margin: auto;
     max-width: 600px;
-    background-color: rgb(172, 194, 205);
+    background-color: rgb(165, 187, 199);
 
     border-width: 1px;
     border-style: solid;
