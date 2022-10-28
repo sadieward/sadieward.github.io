@@ -27,10 +27,12 @@
       "ticks": false,
       "labelAngle": 45}},
     
-    "y": {"field": "Value", "type": "quantitative", "title": "",
+    "y": {"field": "Value", "type": "quantitative", "title": "", "stack": null,
     "axis": {"grid": false}},
 
    "xOffset": {"field": "LOCATION"},
+   "opacity": {"value": 0.9},
+   
 
     
     
