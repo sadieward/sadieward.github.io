@@ -1,0 +1,26 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+     "width":500,
+    "height":500,
+  
+   "data": {
+    "url": "https://martinjc.github.io/UK-GeoJSON/json/eng/topo_lad.json",
+    "format": {"type": "topojson", "feature": "lad"}}, 
+
+      "projection": {
+        "type": "mercator"
+      }, 
+
+      "mark": {
+        "type": "geoshape",
+        "stroke": "darkgray",
+        "strokeWidth":0.5
+      },
+
+      "encoding": {
+        "tooltip": {"field": "properties.LAD13NM"}
+      }
+      
+}
+  
