@@ -1,0 +1,534 @@
+ConstituencyName,RegNationName,%born in UK,% not  born in UK
+Aldershot,South East,77,23
+Aldridge-Brownhills,West Midlands,95,5
+Altrincham and Sale West,North West,85,15
+Amber Valley,East Midlands,96,4
+Arundel and South Downs,South East,93,7
+Ashfield,East Midlands,95,5
+Ashford,South East,86,14
+Ashton-under-Lyne,North West,85,15
+Aylesbury,South East,82,18
+Banbury,South East,82,18
+Barking,London,57,43
+Barnsley Central,Yorkshire and The Humber,91,9
+Barnsley East,Yorkshire and The Humber,95,5
+Barrow and Furness,North West,96,4
+Basildon and Billericay,East of England,88,12
+Basingstoke,South East,82,18
+Bassetlaw,East Midlands,93,7
+Bath,South West,82,18
+Batley and Spen,Yorkshire and The Humber,88,12
+Battersea,London,61,39
+Beaconsfield,South East,83,17
+Beckenham,London,81,19
+Bedford,East of England,72,28
+Bermondsey and Old Southwark,London,54,46
+Berwick-upon-Tweed,North East,96,4
+Bethnal Green and Bow,London,56,44
+Beverley and Holderness,Yorkshire and The Humber,96,4
+Bexhill and Battle,South East,93,7
+Bexleyheath and Crayford,London,79,21
+Birkenhead,North West,92,8
+"Birmingham, Edgbaston",West Midlands,73,27
+"Birmingham, Erdington",West Midlands,78,22
+"Birmingham, Hall Green",West Midlands,67,33
+"Birmingham, Hodge Hill",West Midlands,68,32
+"Birmingham, Ladywood",West Midlands,55,45
+"Birmingham, Northfield",West Midlands,87,13
+"Birmingham, Perry Barr",West Midlands,67,33
+"Birmingham, Selly Oak",West Midlands,82,18
+"Birmingham, Yardley",West Midlands,76,24
+Bishop Auckland,North East,97,3
+Blackburn,North West,77,23
+Blackley and Broughton,North West,64,36
+Blackpool North and Cleveleys,North West,94,6
+Blackpool South,North West,92,8
+Blaydon,North East,96,4
+Blyth Valley,North East,97,3
+Bognor Regis and Littlehampton,South East,87,13
+Bolsover,East Midlands,95,5
+Bolton North East,North West,83,17
+Bolton South East,North West,76,24
+Bolton West,North West,92,8
+Bootle,North West,94,6
+Boston and Skegness,East Midlands,83,17
+Bosworth,East Midlands,94,6
+Bournemouth East,South West,79,21
+Bournemouth West,South West,81,19
+Bracknell,South East,83,17
+Bradford East,Yorkshire and The Humber,75,25
+Bradford South,Yorkshire and The Humber,86,14
+Bradford West,Yorkshire and The Humber,68,32
+Braintree,East of England,93,7
+Brent Central,London,46,54
+Brent North,London,39,61
+Brentford and Isleworth,London,52,48
+Brentwood and Ongar,East of England,90,10
+Bridgwater and West Somerset,South West,91,9
+Brigg and Goole,Yorkshire and The Humber,93,7
+"Brighton, Kemptown",South East,83,17
+"Brighton, Pavilion",South East,80,20
+Bristol East,South West,82,18
+Bristol North West,South West,82,18
+Bristol South,South West,87,13
+Bristol West,South West,74,26
+Broadland,East of England,95,5
+Bromley and Chislehurst,London,78,22
+Bromsgrove,West Midlands,95,5
+Broxbourne,East of England,82,18
+Broxtowe,East Midlands,89,11
+Buckingham,South East,91,9
+Burnley,North West,87,13
+Burton,West Midlands,85,15
+Bury North,North West,87,13
+Bury South,North West,88,12
+Bury St Edmunds,East of England,90,10
+Calder Valley,Yorkshire and The Humber,96,4
+Camberwell and Peckham,London,61,39
+Camborne and Redruth,South West,95,5
+Cambridge,East of England,62,38
+Cannock Chase,West Midlands,96,4
+Canterbury,South East,84,16
+Carlisle,North West,93,7
+Carshalton and Wallington,London,75,25
+Castle Point,East of England,95,5
+Central Devon,South West,94,6
+Central Suffolk and North Ipswich,East of England,93,7
+Charnwood,East Midlands,89,11
+Chatham and Aylesford,South East,88,12
+Cheadle,North West,89,11
+Chelmsford,East of England,85,15
+Chelsea and Fulham,London,53,47
+Cheltenham,South West,85,15
+Chesham and Amersham,South East,86,14
+Chesterfield,East Midlands,95,5
+Chichester,South East,90,10
+Chingford and Woodford Green,London,73,27
+Chippenham,South West,92,8
+Chipping Barnet,London,65,35
+Chorley,North West,95,5
+Christchurch,South West,93,7
+Cities of London and Westminster,London,44,56
+City of Chester,North West,88,12
+City of Durham,North East,90,10
+Clacton,East of England,95,5
+Cleethorpes,Yorkshire and The Humber,96,4
+Colchester,East of England,82,18
+Colne Valley,Yorkshire and The Humber,91,9
+Congleton,North West,96,4
+Copeland,North West,97,3
+Corby,East Midlands,84,16
+Coventry North East,West Midlands,68,32
+Coventry North West,West Midlands,78,22
+Coventry South,West Midlands,71,29
+Crawley,South East,73,27
+Crewe and Nantwich,North West,87,13
+Croydon Central,London,67,33
+Croydon North,London,56,44
+Croydon South,London,75,25
+Dagenham and Rainham,London,68,32
+Darlington,North East,92,8
+Dartford,South East,81,19
+Daventry,East Midlands,91,9
+Denton and Reddish,North West,92,8
+Derby North,East Midlands,84,16
+Derby South,East Midlands,72,28
+Derbyshire Dales,East Midlands,96,4
+Devizes,South West,89,11
+Dewsbury,Yorkshire and The Humber,88,12
+Don Valley,Yorkshire and The Humber,94,6
+Doncaster Central,Yorkshire and The Humber,81,19
+Doncaster North,Yorkshire and The Humber,94,6
+Dover,South East,91,9
+Dudley North,West Midlands,89,11
+Dudley South,West Midlands,94,6
+Dulwich and West Norwood,London,68,32
+Ealing Central and Acton,London,51,49
+Ealing North,London,51,49
+"Ealing, Southall",London,45,55
+Easington,North East,97,3
+East Devon,South West,93,7
+East Ham,London,45,55
+East Hampshire,South East,90,10
+East Surrey,South East,88,12
+East Worthing and Shoreham,South East,91,9
+East Yorkshire,Yorkshire and The Humber,96,4
+Eastbourne,South East,85,15
+Eastleigh,South East,91,9
+Eddisbury,North West,95,5
+Edmonton,London,52,48
+Ellesmere Port and Neston,North West,94,6
+Elmet and Rothwell,Yorkshire and The Humber,96,4
+Eltham,London,72,28
+Enfield North,London,67,33
+"Enfield, Southgate",London,60,40
+Epping Forest,East of England,84,16
+Epsom and Ewell,South East,81,19
+Erewash,East Midlands,94,6
+Erith and Thamesmead,London,63,37
+Esher and Walton,South East,79,21
+Exeter,South West,84,16
+Fareham,South East,93,7
+Faversham and Mid Kent,South East,91,9
+Feltham and Heston,London,49,51
+Filton and Bradley Stoke,South West,83,17
+Finchley and Golders Green,London,55,45
+Folkestone and Hythe,South East,90,10
+Forest of Dean,South West,95,5
+Fylde,North West,94,6
+Gainsborough,East Midlands,95,5
+Garston and Halewood,North West,93,7
+Gateshead,North East,89,11
+Gedling,East Midlands,92,8
+Gillingham and Rainham,South East,86,14
+Gloucester,South West,85,15
+Gosport,South East,93,7
+Grantham and Stamford,East Midlands,90,10
+Gravesham,South East,81,19
+Great Grimsby,Yorkshire and The Humber,92,8
+Great Yarmouth,East of England,90,10
+Greenwich and Woolwich,London,58,42
+Guildford,South East,79,21
+Hackney North and Stoke Newington,London,63,37
+Hackney South and Shoreditch,London,58,42
+Halesowen and Rowley Regis,West Midlands,91,9
+Halifax,Yorkshire and The Humber,87,13
+Haltemprice and Howden,Yorkshire and The Humber,95,5
+Halton,North West,95,5
+Hammersmith,London,53,47
+Hampstead and Kilburn,London,52,48
+Harborough,East Midlands,86,14
+Harlow,East of England,83,17
+Harrogate and Knaresborough,Yorkshire and The Humber,90,10
+Harrow East,London,48,52
+Harrow West,London,47,53
+Hartlepool,North East,96,4
+Harwich and North Essex,East of England,94,6
+Hastings and Rye,South East,89,11
+Havant,South East,93,7
+Hayes and Harlington,London,52,48
+Hazel Grove,North West,95,5
+Hemel Hempstead,East of England,84,16
+Hemsworth,Yorkshire and The Humber,93,7
+Hendon,London,51,49
+Henley,South East,88,12
+Hereford and South Herefordshire,West Midlands,90,10
+Hertford and Stortford,East of England,88,12
+Hertsmere,East of England,77,23
+Hexham,North East,96,4
+Heywood and Middleton,North West,89,11
+High Peak,East Midlands,96,4
+Hitchin and Harpenden,East of England,87,13
+Holborn and St Pancras,London,57,43
+Hornchurch and Upminster,London,84,16
+Hornsey and Wood Green,London,60,40
+Horsham,South East,88,12
+Houghton and Sunderland South,North East,97,3
+Hove,South East,80,20
+Huddersfield,Yorkshire and The Humber,81,19
+Huntingdon,East of England,86,14
+Hyndburn,North West,91,9
+Ilford North,London,60,40
+Ilford South,London,49,51
+Ipswich,East of England,81,19
+Isle of Wight,South East,94,6
+Islington North,London,62,38
+Islington South and Finsbury,London,58,42
+Jarrow,North East,97,3
+Keighley,Yorkshire and The Humber,90,10
+Kenilworth and Southam,West Midlands,91,9
+Kensington,London,46,54
+Kettering,East Midlands,86,14
+Kingston and Surbiton,London,68,32
+Kingston upon Hull East,Yorkshire and The Humber,93,7
+Kingston upon Hull North,Yorkshire and The Humber,85,15
+Kingston upon Hull West and Hessle,Yorkshire and The Humber,84,16
+Kingswood,South West,92,8
+Knowsley,North West,95,5
+Lancaster and Fleetwood,North West,89,11
+Leeds Central,Yorkshire and The Humber,70,30
+Leeds East,Yorkshire and The Humber,80,20
+Leeds North East,Yorkshire and The Humber,79,21
+Leeds North West,Yorkshire and The Humber,89,11
+Leeds West,Yorkshire and The Humber,85,15
+Leicester East,East Midlands,50,50
+Leicester South,East Midlands,62,38
+Leicester West,East Midlands,66,34
+Leigh,North West,93,7
+Lewes,South East,92,8
+Lewisham East,London,66,34
+Lewisham West and Penge,London,71,29
+"Lewisham, Deptford",London,61,39
+Leyton and Wanstead,London,58,42
+Lichfield,West Midlands,96,4
+Lincoln,East Midlands,86,14
+"Liverpool, Riverside",North West,79,21
+"Liverpool, Walton",North West,88,12
+"Liverpool, Wavertree",North West,82,18
+"Liverpool, West Derby",North West,88,12
+Loughborough,East Midlands,86,14
+Louth and Horncastle,East Midlands,96,4
+Ludlow,West Midlands,96,4
+Luton North,East of England,66,34
+Luton South,East of England,59,41
+Macclesfield,North West,93,7
+Maidenhead,South East,80,20
+Maidstone and The Weald,South East,83,17
+Makerfield,North West,96,4
+Maldon,East of England,95,5
+Manchester Central,North West,64,36
+"Manchester, Gorton",North West,62,38
+"Manchester, Withington",North West,79,21
+Mansfield,East Midlands,89,11
+Meon Valley,South East,93,7
+Meriden,West Midlands,93,7
+Mid Bedfordshire,East of England,91,9
+Mid Derbyshire,East Midlands,95,5
+Mid Dorset and North Poole,South West,94,6
+Mid Norfolk,East of England,93,7
+Mid Sussex,South East,87,13
+Mid Worcestershire,West Midlands,91,9
+Middlesbrough,North East,84,16
+Middlesbrough South and East Cleveland,North East,97,3
+Milton Keynes North,South East,74,26
+Milton Keynes South,South East,75,25
+Mitcham and Morden,London,57,43
+Mole Valley,South East,88,12
+Morecambe and Lunesdale,North West,94,6
+Morley and Outwood,Yorkshire and The Humber,93,7
+New Forest East,South East,94,6
+New Forest West,South East,92,8
+Newark,East Midlands,92,8
+Newbury,South East,88,12
+Newcastle upon Tyne Central,North East,72,28
+Newcastle upon Tyne East,North East,84,16
+Newcastle upon Tyne North,North East,91,9
+Newcastle-under-Lyme,West Midlands,92,8
+Newton Abbot,South West,95,5
+"Normanton, Pontefract and Castleford",Yorkshire and The Humber,93,7
+North Cornwall,South West,95,5
+North Devon,South West,95,5
+North Dorset,South West,93,7
+North Durham,North East,97,3
+North East Bedfordshire,East of England,91,9
+North East Cambridgeshire,East of England,88,12
+North East Derbyshire,East Midlands,97,3
+North East Hampshire,South East,89,11
+North East Hertfordshire,East of England,91,9
+North East Somerset,South West,94,6
+North Herefordshire,West Midlands,93,7
+North Norfolk,East of England,96,4
+North Shropshire,West Midlands,94,6
+North Somerset,South West,93,7
+North Swindon,South West,84,16
+North Thanet,South East,93,7
+North Tyneside,North East,94,6
+North Warwickshire,West Midlands,93,7
+North West Cambridgeshire,East of England,83,17
+North West Durham,North East,97,3
+North West Hampshire,South East,89,11
+North West Leicestershire,East Midlands,94,6
+North West Norfolk,East of England,88,12
+North Wiltshire,South West,91,9
+Northampton North,East Midlands,75,25
+Northampton South,East Midlands,69,31
+Norwich North,East of England,89,11
+Norwich South,East of England,82,18
+Nottingham East,East Midlands,70,30
+Nottingham North,East Midlands,82,18
+Nottingham South,East Midlands,75,25
+Nuneaton,West Midlands,89,11
+Old Bexley and Sidcup,London,85,15
+Oldham East and Saddleworth,North West,85,15
+Oldham West and Royton,North West,80,20
+Orpington,London,83,17
+Oxford East,South East,65,35
+Oxford West and Abingdon,South East,77,23
+Pendle,North West,82,18
+Penistone and Stocksbridge,Yorkshire and The Humber,97,3
+Penrith and The Border,North West,96,4
+Peterborough,East of England,68,32
+"Plymouth, Moor View",South West,94,6
+"Plymouth, Sutton and Devonport",South West,86,14
+Poole,South West,88,12
+Poplar and Limehouse,London,51,49
+Portsmouth North,South East,88,12
+Portsmouth South,South East,78,22
+Preston,North West,76,24
+Pudsey,Yorkshire and The Humber,93,7
+Putney,London,60,40
+Rayleigh and Wickford,East of England,95,5
+Reading East,South East,68,32
+Reading West,South East,74,26
+Redcar,North East,97,3
+Redditch,West Midlands,89,11
+Reigate,South East,83,17
+Ribble Valley,North West,95,5
+Richmond (Yorks),Yorkshire and The Humber,93,7
+Richmond Park,London,65,35
+Rochdale,North West,80,20
+Rochester and Strood,South East,87,13
+Rochford and Southend East,East of England,87,13
+Romford,London,78,22
+Romsey and Southampton North,South East,85,15
+Rossendale and Darwen,North West,95,5
+Rother Valley,Yorkshire and The Humber,96,4
+Rotherham,Yorkshire and The Humber,87,13
+Rugby,West Midlands,81,19
+"Ruislip, Northwood and Pinner",London,68,32
+Runnymede and Weybridge,South East,79,21
+Rushcliffe,East Midlands,91,9
+Rutland and Melton,East Midlands,92,8
+Saffron Walden,East of England,91,9
+Salford and Eccles,North West,78,22
+Salisbury,South West,89,11
+Scarborough and Whitby,Yorkshire and The Humber,93,7
+Scunthorpe,Yorkshire and The Humber,86,14
+Sedgefield,North East,96,4
+Sefton Central,North West,97,3
+Selby and Ainsty,Yorkshire and The Humber,94,6
+Sevenoaks,South East,88,12
+Sheffield Central,Yorkshire and The Humber,74,26
+Sheffield South East,Yorkshire and The Humber,88,12
+"Sheffield, Brightside and Hillsborough",Yorkshire and The Humber,80,20
+"Sheffield, Hallam",Yorkshire and The Humber,91,9
+"Sheffield, Heeley",Yorkshire and The Humber,89,11
+Sherwood,East Midlands,95,5
+Shipley,Yorkshire and The Humber,93,7
+Shrewsbury and Atcham,West Midlands,93,7
+Sittingbourne and Sheppey,South East,92,8
+Skipton and Ripon,Yorkshire and The Humber,94,6
+Sleaford and North Hykeham,East Midlands,94,6
+Slough,South East,56,44
+Solihull,West Midlands,86,14
+Somerton and Frome,South West,93,7
+South Basildon and East Thurrock,East of England,88,12
+South Cambridgeshire,East of England,82,18
+South Derbyshire,East Midlands,94,6
+South Dorset,South West,94,6
+South East Cambridgeshire,East of England,86,14
+South East Cornwall,South West,96,4
+South Holland and The Deepings,East Midlands,87,13
+South Leicestershire,East Midlands,92,8
+South Norfolk,East of England,93,7
+South Northamptonshire,East Midlands,89,11
+South Ribble,North West,95,5
+South Shields,North East,95,5
+South Staffordshire,West Midlands,97,3
+South Suffolk,East of England,94,6
+South Swindon,South West,75,25
+South Thanet,South East,90,10
+South West Bedfordshire,East of England,85,15
+South West Devon,South West,95,5
+South West Hertfordshire,East of England,84,16
+South West Norfolk,East of England,88,12
+South West Surrey,South East,87,13
+South West Wiltshire,South West,90,10
+"Southampton, Itchen",South East,81,19
+"Southampton, Test",South East,72,28
+Southend West,East of England,89,11
+Southport,North West,91,9
+Spelthorne,South East,79,21
+St Albans,East of England,81,19
+St Austell and Newquay,South West,95,5
+St Helens North,North West,95,5
+St Helens South and Whiston,North West,94,6
+St Ives,South West,95,5
+Stafford,West Midlands,92,8
+Staffordshire Moorlands,West Midlands,97,3
+Stalybridge and Hyde,North West,93,7
+Stevenage,East of England,84,16
+Stockport,North West,89,11
+Stockton North,North East,94,6
+Stockton South,North East,93,7
+Stoke-on-Trent Central,West Midlands,82,18
+Stoke-on-Trent North,West Midlands,89,11
+Stoke-on-Trent South,West Midlands,91,9
+Stone,West Midlands,96,4
+Stourbridge,West Midlands,94,6
+Stratford-on-Avon,West Midlands,91,9
+Streatham,London,62,38
+Stretford and Urmston,North West,85,15
+Stroud,South West,93,7
+Suffolk Coastal,East of England,93,7
+Sunderland Central,North East,91,9
+Surrey Heath,South East,84,16
+Sutton and Cheam,London,69,31
+Sutton Coldfield,West Midlands,90,10
+Tamworth,West Midlands,93,7
+Tatton,North West,92,8
+Taunton Deane,South West,90,10
+Telford,West Midlands,89,11
+Tewkesbury,South West,91,9
+The Cotswolds,South West,91,9
+The Wrekin,West Midlands,89,11
+Thirsk and Malton,Yorkshire and The Humber,95,5
+Thornbury and Yate,South West,94,6
+Thurrock,East of England,75,25
+Tiverton and Honiton,South West,94,6
+Tonbridge and Malling,South East,90,10
+Tooting,London,66,34
+Torbay,South West,92,8
+Torridge and West Devon,South West,96,4
+Totnes,South West,94,6
+Tottenham,London,49,51
+Truro and Falmouth,South West,93,7
+Tunbridge Wells,South East,86,14
+Twickenham,London,74,26
+Tynemouth,North East,95,5
+Uxbridge and South Ruislip,London,66,34
+Vauxhall,London,58,42
+Wakefield,Yorkshire and The Humber,87,13
+Wallasey,North West,95,5
+Walsall North,West Midlands,88,12
+Walsall South,West Midlands,76,24
+Walthamstow,London,59,41
+Wansbeck,North East,97,3
+Wantage,South East,87,13
+Warley,West Midlands,68,32
+Warrington North,North West,91,9
+Warrington South,North West,90,10
+Warwick and Leamington,West Midlands,82,18
+Washington and Sunderland West,North East,97,3
+Watford,East of England,69,31
+Waveney,East of England,95,5
+Wealden,South East,92,8
+Weaver Vale,North West,94,6
+Wellingborough,East Midlands,83,17
+Wells,South West,93,7
+Welwyn Hatfield,East of England,78,22
+Wentworth and Dearne,Yorkshire and The Humber,96,4
+West Bromwich East,West Midlands,75,25
+West Bromwich West,West Midlands,80,20
+West Dorset,South West,93,7
+West Ham,London,47,53
+West Lancashire,North West,94,6
+West Suffolk,East of England,81,19
+West Worcestershire,West Midlands,94,6
+Westminster North,London,45,55
+Westmorland and Lonsdale,North West,94,6
+Weston-Super-Mare,South West,90,10
+Wigan,North West,93,7
+Wimbledon,London,62,38
+Winchester,South East,87,13
+Windsor,South East,79,21
+Wirral South,North West,95,5
+Wirral West,North West,95,5
+Witham,East of England,93,7
+Witney,South East,89,11
+Woking,South East,77,23
+Wokingham,South East,80,20
+Wolverhampton North East,West Midlands,82,18
+Wolverhampton South East,West Midlands,76,24
+Wolverhampton South West,West Midlands,76,24
+Worcester,West Midlands,87,13
+Workington,North West,97,3
+Worsley and Eccles South,North West,88,12
+Worthing West,South East,89,11
+Wycombe,South East,76,24
+Wyre and Preston North,North West,93,7
+Wyre Forest,West Midlands,95,5
+Wythenshawe and Sale East,North West,83,17
+Yeovil,South West,91,9
+York Central,Yorkshire and The Humber,86,14
+York Outer,Yorkshire and The Humber,93,7
