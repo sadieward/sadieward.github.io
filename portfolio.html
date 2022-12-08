@@ -55,12 +55,12 @@
         <p>I modified it to be a line chart because the small differences betweeen USA in Britian's pay gap are easier to track and more visible</p>
         <div class="chart" id="Chart6"></div>
 
-        <h2>Task 4 - Data Scraping </h2>
-        <p>https://colab.research.google.com/drive/1M7Gfrm03TAJGD9LK0Bg7hG29LQd9oueO?usp=sharing</p>
+        <h2>Task 4 </h2>
+        <p>This data was retrieved using a scraper in python, shown <a href="https://colab.research.google.com/drive/1M7Gfrm03TAJGD9LK0Bg7hG29LQd9oueO?usp=sharing" id="link1">here</a> </p>
         <div class="chart" id="Chart7"></div>
         <p>I chose this because Liz Truss resigned this week and i was interested to see how her tenure compared to other previous Prime Ministers</p>
      
-    
+
     
         <h2>Task 5</h2>
         <p>This week i used a loop to batch download data from the ONS API. The data analyis is shown here</p>
@@ -74,6 +74,24 @@
         <div class="chart5" id="Chart14"></div>
         <div class="chart5" id="Chart15"></div>
         <div class="chart5" id="Chart16"></div>
+
+        <h2>Task 6 </h2>
+        <p>This is a map of the local authority areas in England</p>
+        <div class="chart" id="Chart17"></div>
+        <p>This shows the proportion of the population not born in the UK by parlimentary constiencies. The data analysis was done in Colab</p>
+        <div class="chart" id="Chart18"></div>
+
+
+        <h2>Task 7 </h2>
+        <h3>Cryptocurrency</h3>
+        <div class="chart" id="Chart19"></div>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias officiis voluptatum tempore. Illum nesciunt et iure molestias soluta assumenda, nulla, ipsum saepe quasi dignissimos quisquam hic. Tempora repudiandae facilis nihil.</p>
+        <div class="chart" id="Chart20"></div>
+
+
+
+
+
     </div>
 
 
@@ -100,6 +118,10 @@
     var myChart14 = "ONS-YCGV.json";
     var myChart15 = "ONS-LF2E.json";
     var myChart16 = "ONS-LFK6.json";
+    var myChart17 = "engLAmap.json";
+    var myChart18 = "ENGmap_imm.json";
+    var myChart19 = "cryptodemographics.json";
+    var myChart20 = "Crypto_pricechanges.json";
 
     
     
@@ -121,6 +143,10 @@
     vegaEmbed('#Chart14', myChart14);
     vegaEmbed('#Chart15', myChart15);
     vegaEmbed('#Chart16', myChart16);
+    vegaEmbed('#Chart17', myChart17);
+    vegaEmbed('#Chart18', myChart18);
+    vegaEmbed('#Chart19', myChart19);
+    vegaEmbed('#Chart20', myChart20);
 
     
 </script>
