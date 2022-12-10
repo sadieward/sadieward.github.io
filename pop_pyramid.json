@@ -3,6 +3,18 @@
     "description": "A population pyramid for the US in 2000.",
     "data": { "url": "https://raw.githubusercontent.com/sadieward/sadieward.github.io/main/pop-pyramid3.csv"},
   
+  
+    "title": {
+        "text": "Age Demographics ",
+        "subtitle":"Of the general population and immigrants on arrival to the UK in 2021, percent, source ONS",
+        "subtitleFontStyle":"italic",
+        "subtitleFontSize":10,
+        "anchor": "middle",
+        "align": "center",
+        "color": "black"},
+        
+  
+  
     "spacing": 0,
     "hconcat": [{
       "transform": [{
@@ -16,7 +28,7 @@
         },
         "x": {
           "aggregate": "sum", "field": "Value",
-          "title": "%",
+          "title": "% of total population",
           "axis": {"format": "s"},
           "sort": "descending"
         },
@@ -49,7 +61,7 @@
         },
         "x": {
           "aggregate": "sum", "field": "Value",
-          "title": "%",
+          "title": "% of total immigrants",
           "axis": {"format": "s"}
         },
         "color": {
