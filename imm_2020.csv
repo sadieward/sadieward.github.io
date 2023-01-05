@@ -1,0 +1,328 @@
+Area Code,Name,Geography,All,UK,Non-UK,% foreign born 
+E06000047,County Durham ,Unitary Authority,519000,505000,14000,2.697495183
+E06000005,Darlington,Unitary Authority,105000,98000,7000,6.666666667
+E06000001,Hartlepool,Unitary Authority,92000,89000,3000,3.260869565
+E06000002,Middlesbrough,Unitary Authority,139000,123000,17000,12.23021583
+E06000057,Northumberland ,Unitary Authority,311000,305000,7000,2.250803859
+E06000003,Redcar and Cleveland,Unitary Authority,134000,130000,4000,2.985074627
+E06000004,Stockton-on-Tees,Unitary Authority,195000,183000,12000,6.153846154
+E08000037,Gateshead,Metropolitan District,202000,187000,15000,7.425742574
+E08000021,Newcastle upon Tyne,Metropolitan District,296000,244000,52000,17.56756757
+E08000022,North Tyneside,Metropolitan District,204000,194000,10000,4.901960784
+E08000023,South Tyneside,Metropolitan District,148000,142000,6000,4.054054054
+E08000024,Sunderland,Metropolitan District,275000,268000,7000,2.545454545
+E06000008,Blackburn with Darwen,Unitary Authority,146000,124000,23000,15.75342466
+E06000009,Blackpool,Unitary Authority,134000,128000,6000,4.47761194
+E06000049,Cheshire East ,Unitary Authority,376000,344000,32000,8.510638298
+E06000050,Cheshire West and Chester [Note 10],Unitary Authority,336000,312000,24000,7.142857143
+E06000006,Halton,Unitary Authority,127000,123000,4000,3.149606299
+E06000007,Warrington,Unitary Authority,210000,190000,19000,9.047619048
+E07000026,Allerdale,Non-metropolitan District,95000,92000,4000,4.210526316
+E07000027,Barrow-in-Furness,Non-metropolitan District,65000,61000,4000,6.153846154
+E07000028,Carlisle,Non-metropolitan District,107000,102000,5000,4.672897196
+E07000029,Copeland,Non-metropolitan District,66000,62000,4000,6.060606061
+E07000030,Eden,Non-metropolitan District,52000,49000,2000,3.846153846
+E07000031,South Lakeland,Non-metropolitan District,100000,94000,6000,6
+E08000001,Bolton,Metropolitan District,286000,245000,41000,14.33566434
+E08000002,Bury,Metropolitan District,188000,171000,18000,9.574468085
+E08000003,Manchester,Metropolitan District,558000,410000,148000,26.52329749
+E08000004,Oldham,Metropolitan District,236000,210000,25000,10.59322034
+E08000005,Rochdale,Metropolitan District,217000,193000,24000,11.05990783
+E08000006,Salford,Metropolitan District,255000,204000,51000,20
+E08000007,Stockport,Metropolitan District,292000,272000,20000,6.849315068
+E08000008,Tameside,Metropolitan District,224000,206000,18000,8.035714286
+E08000009,Trafford,Metropolitan District,239000,201000,38000,15.89958159
+E08000010,Wigan,Metropolitan District,324000,301000,23000,7.098765432
+E07000117,Burnley,Non-metropolitan District,86000,81000,5000,5.813953488
+E07000118,Chorley,Non-metropolitan District,116000,112000,4000,3.448275862
+E07000119,Fylde,Non-metropolitan District,78000,75000,3000,3.846153846
+E07000120,Hyndburn,Non-metropolitan District,79000,77000,2000,2.53164557
+E07000121,Lancaster,Non-metropolitan District,140000,133000,7000,5
+E07000122,Pendle,Non-metropolitan District,90000,79000,11000,12.22222222
+E07000123,Preston,Non-metropolitan District,138000,109000,29000,21.01449275
+E07000124,Ribble Valley,Non-metropolitan District,58000,55000,3000,5.172413793
+E07000125,Rossendale,Non-metropolitan District,70000,67000,3000,4.285714286
+E07000126,South Ribble,Non-metropolitan District,110000,106000,4000,3.636363636
+E07000127,West Lancashire,Non-metropolitan District,112000,101000,11000,9.821428571
+E07000128,Wyre,Non-metropolitan District,110000,105000,5000,4.545454545
+E08000011,Knowsley,Metropolitan District,148000,138000,10000,6.756756757
+E08000012,Liverpool,Metropolitan District,494000,436000,58000,11.74089069
+E08000014,Sefton,Metropolitan District,271000,258000,13000,4.79704797
+E08000013,St. Helens,Metropolitan District,179000,170000,9000,5.027932961
+E08000015,Wirral,Metropolitan District,319000,305000,14000,4.388714734
+E06000011,East Riding of Yorkshire,Unitary Authority,333000,318000,15000,4.504504505
+E06000010,"Kingston upon Hull, City of",Unitary Authority,258000,246000,12000,4.651162791
+E06000012,North East Lincolnshire,Unitary Authority,157000,150000,7000,4.458598726
+E06000013,North Lincolnshire,Unitary Authority,171000,154000,17000,9.941520468
+E06000014,York,Unitary Authority,208000,184000,23000,11.05769231
+E07000163,Craven,Non-metropolitan District,56000,52000,3000,5.357142857
+E07000164,Hambleton,Non-metropolitan District,89000,84000,5000,5.617977528
+E07000165,Harrogate,Non-metropolitan District,156000,143000,13000,8.333333333
+E07000166,Richmondshire,Non-metropolitan District,49000,45000,4000,8.163265306
+E07000167,Ryedale,Non-metropolitan District,54000,53000,Confidential,#VALUE!
+E07000168,Scarborough,Non-metropolitan District,106000,102000,4000,3.773584906
+E07000169,Selby,Non-metropolitan District,89000,86000,2000,2.247191011
+E08000016,Barnsley,Metropolitan District,247000,229000,18000,7.287449393
+E08000017,Doncaster,Metropolitan District,304000,281000,23000,7.565789474
+E08000018,Rotherham,Metropolitan District,263000,249000,14000,5.323193916
+E08000019,Sheffield,Metropolitan District,582000,488000,92000,15.80756014
+E08000032,Bradford,Metropolitan District,532000,457000,75000,14.09774436
+E08000033,Calderdale,Metropolitan District,210000,195000,16000,7.619047619
+E08000034,Kirklees,Metropolitan District,440000,386000,53000,12.04545455
+E08000035,Leeds,Metropolitan District,792000,697000,95000,11.99494949
+E08000036,Wakefield,Metropolitan District,341000,311000,30000,8.797653959
+E06000015,Derby,Unitary Authority,259000,214000,45000,17.37451737
+E06000016,Leicester,Unitary Authority,359000,232000,126000,35.09749304
+E06000018,Nottingham,Unitary Authority,327000,247000,80000,24.4648318
+E06000017,Rutland,Unitary Authority,36000,33000,3000,8.333333333
+E07000032,Amber Valley,Non-metropolitan District,125000,119000,6000,4.8
+E07000033,Bolsover,Non-metropolitan District,79000,78000,Confidential,#VALUE!
+E07000034,Chesterfield,Non-metropolitan District,104000,94000,9000,8.653846154
+E07000035,Derbyshire Dales,Non-metropolitan District,70000,68000,2000,2.857142857
+E07000036,Erewash,Non-metropolitan District,116000,112000,3000,2.586206897
+E07000037,High Peak,Non-metropolitan District,91000,89000,2000,2.197802198
+E07000038,North East Derbyshire,Non-metropolitan District,100000,97000,3000,3
+E07000039,South Derbyshire,Non-metropolitan District,103000,97000,6000,5.825242718
+E07000129,Blaby,Non-metropolitan District,100000,92000,8000,8
+E07000130,Charnwood,Non-metropolitan District,183000,155000,27000,14.75409836
+E07000131,Harborough,Non-metropolitan District,92000,80000,12000,13.04347826
+E07000132,Hinckley and Bosworth,Non-metropolitan District,112000,109000,3000,2.678571429
+E07000133,Melton,Non-metropolitan District,51000,47000,3000,5.882352941
+E07000134,North West Leicestershire,Non-metropolitan District,101000,92000,9000,8.910891089
+E07000135,Oadby and Wigston,Non-metropolitan District,55000,37000,18000,32.72727273
+E07000136,Boston,Non-metropolitan District,68000,59000,9000,13.23529412
+E07000137,East Lindsey,Non-metropolitan District,137000,135000,2000,1.459854015
+E07000138,Lincoln,Non-metropolitan District,96000,79000,18000,18.75
+E07000139,North Kesteven,Non-metropolitan District,115000,108000,6000,5.217391304
+E07000140,South Holland,Non-metropolitan District,94000,88000,6000,6.382978723
+E07000141,South Kesteven,Non-metropolitan District,144000,132000,12000,8.333333333
+E07000142,West Lindsey,Non-metropolitan District,95000,91000,4000,4.210526316
+E07000150,Corby,Non-metropolitan District,73000,58000,15000,20.54794521
+E07000151,Daventry,Non-metropolitan District,81000,76000,5000,6.172839506
+E07000152,East Northamptonshire,Non-metropolitan District,92000,87000,5000,5.434782609
+E07000153,Kettering,Non-metropolitan District,102000,89000,13000,12.74509804
+E07000154,Northampton,Non-metropolitan District,230000,166000,64000,27.82608696
+E07000155,South Northamptonshire,Non-metropolitan District,92000,84000,8000,8.695652174
+E07000156,Wellingborough,Non-metropolitan District,80000,70000,10000,12.5
+E07000170,Ashfield,Non-metropolitan District,127000,121000,6000,4.724409449
+E07000171,Bassetlaw,Non-metropolitan District,113000,108000,5000,4.424778761
+E07000172,Broxtowe,Non-metropolitan District,113000,102000,11000,9.734513274
+E07000173,Gedling,Non-metropolitan District,119000,112000,7000,5.882352941
+E07000174,Mansfield,Non-metropolitan District,109000,101000,8000,7.339449541
+E07000175,Newark and Sherwood,Non-metropolitan District,121000,115000,6000,4.958677686
+E07000176,Rushcliffe,Non-metropolitan District,116000,100000,16000,13.79310345
+E06000019,"Herefordshire, County of",Unitary Authority,190000,173000,17000,8.947368421
+E06000051,Shropshire [Note 11],Unitary Authority,311000,291000,20000,6.430868167
+E06000021,Stoke-on-Trent,Unitary Authority,254000,225000,29000,11.41732283
+E06000020,Telford and Wrekin,Unitary Authority,176000,156000,20000,11.36363636
+E07000192,Cannock Chase,Non-metropolitan District,98000,90000,8000,8.163265306
+E07000193,East Staffordshire,Non-metropolitan District,116000,103000,14000,12.06896552
+E07000194,Lichfield,Non-metropolitan District,102000,97000,5000,4.901960784
+E07000195,Newcastle-under-Lyme,Non-metropolitan District,129000,124000,5000,3.875968992
+E07000196,South Staffordshire,Non-metropolitan District,110000,108000,2000,1.818181818
+E07000197,Stafford,Non-metropolitan District,132000,119000,14000,10.60606061
+E07000198,Staffordshire Moorlands,Non-metropolitan District,97000,92000,5000,5.154639175
+E07000199,Tamworth,Non-metropolitan District,76000,74000,2000,2.631578947
+E07000218,North Warwickshire,Non-metropolitan District,63000,61000,2000,3.174603175
+E07000219,Nuneaton and Bedworth,Non-metropolitan District,129000,111000,17000,13.17829457
+E07000220,Rugby,Non-metropolitan District,106000,92000,14000,13.20754717
+E07000221,Stratford-on-Avon,Non-metropolitan District,123000,111000,12000,9.756097561
+E07000222,Warwick,Non-metropolitan District,139000,116000,23000,16.54676259
+E08000025,Birmingham,Metropolitan District,1153000,862000,291000,25.23850824
+E08000026,Coventry,Metropolitan District,376000,281000,94000,25
+E08000027,Dudley,Metropolitan District,317000,305000,13000,4.100946372
+E08000028,Sandwell,Metropolitan District,330000,260000,71000,21.51515152
+E08000029,Solihull,Metropolitan District,214000,190000,25000,11.68224299
+E08000030,Walsall,Metropolitan District,284000,254000,29000,10.21126761
+E08000031,Wolverhampton,Metropolitan District,261000,212000,49000,18.77394636
+E07000234,Bromsgrove,Non-metropolitan District,96000,92000,4000,4.166666667
+E07000235,Malvern Hills,Non-metropolitan District,76000,66000,10000,13.15789474
+E07000236,Redditch,Non-metropolitan District,85000,72000,13000,15.29411765
+E07000237,Worcester,Non-metropolitan District,103000,87000,15000,14.5631068
+E07000238,Wychavon,Non-metropolitan District,126000,117000,8000,6.349206349
+E07000239,Wyre Forest,Non-metropolitan District,100000,89000,11000,11
+E06000055,Bedford [Note 12],Unitary Authority,174000,148000,27000,15.51724138
+E06000056,Central Bedfordshire [Note 13],Unitary Authority,291000,256000,35000,12.02749141
+E06000032,Luton,Unitary Authority,222000,145000,78000,35.13513514
+E06000031,Peterborough,Unitary Authority,203000,160000,42000,20.68965517
+E06000033,Southend-on-Sea,Unitary Authority,184000,165000,19000,10.32608696
+E06000034,Thurrock,Unitary Authority,176000,137000,39000,22.15909091
+E07000008,Cambridge,Non-metropolitan District,121000,77000,45000,37.19008264
+E07000009,East Cambridgeshire,Non-metropolitan District,90000,81000,9000,10
+E07000010,Fenland,Non-metropolitan District,101000,90000,11000,10.89108911
+E07000011,Huntingdonshire,Non-metropolitan District,177000,161000,15000,8.474576271
+E07000012,South Cambridgeshire,Non-metropolitan District,159000,135000,24000,15.09433962
+E07000066,Basildon,Non-metropolitan District,190000,169000,20000,10.52631579
+E07000067,Braintree,Non-metropolitan District,152000,143000,9000,5.921052632
+E07000068,Brentwood,Non-metropolitan District,78000,75000,3000,3.846153846
+E07000069,Castle Point,Non-metropolitan District,90000,89000,Confidential,#VALUE!
+E07000070,Chelmsford,Non-metropolitan District,177000,163000,14000,7.90960452
+E07000071,Colchester,Non-metropolitan District,194000,176000,17000,8.762886598
+E07000072,Epping Forest,Non-metropolitan District,133000,120000,13000,9.77443609
+E07000073,Harlow,Non-metropolitan District,88000,67000,21000,23.86363636
+E07000074,Maldon,Non-metropolitan District,64000,58000,6000,9.375
+E07000075,Rochford,Non-metropolitan District,87000,85000,2000,2.298850575
+E07000076,Tendring,Non-metropolitan District,146000,142000,3000,2.054794521
+E07000077,Uttlesford,Non-metropolitan District,89000,81000,8000,8.988764045
+E07000095,Broxbourne,Non-metropolitan District,99000,84000,15000,15.15151515
+E07000096,Dacorum,Non-metropolitan District,155000,132000,23000,14.83870968
+E07000242,East Hertfordshire,Non-metropolitan District,150000,131000,19000,12.66666667
+E07000098,Hertsmere,Non-metropolitan District,104000,76000,28000,26.92307692
+E07000099,North Hertfordshire,Non-metropolitan District,135000,122000,13000,9.62962963
+E07000240,St Albans [Note 14],Non-metropolitan District,149000,126000,23000,15.43624161
+E07000243,Stevenage,Non-metropolitan District,89000,76000,13000,14.60674157
+E07000102,Three Rivers,Non-metropolitan District,95000,74000,21000,22.10526316
+E07000103,Watford,Non-metropolitan District,100000,63000,37000,37
+E07000241,Welwyn Hatfield [Note 15],Non-metropolitan District,126000,108000,18000,14.28571429
+E07000143,Breckland,Non-metropolitan District,138000,134000,5000,3.623188406
+E07000144,Broadland,Non-metropolitan District,127000,122000,6000,4.724409449
+E07000145,Great Yarmouth,Non-metropolitan District,99000,94000,4000,4.04040404
+E07000146,King's Lynn and West Norfolk,Non-metropolitan District,152000,139000,13000,8.552631579
+E07000147,North Norfolk,Non-metropolitan District,102000,99000,4000,3.921568627
+E07000148,Norwich,Non-metropolitan District,142000,115000,27000,19.01408451
+E07000149,South Norfolk,Non-metropolitan District,137000,125000,12000,8.759124088
+E07000200,Babergh,Non-metropolitan District,90000,82000,8000,8.888888889
+E07000201,Forest Heath,Non-metropolitan District,64000,55000,9000,14.0625
+E07000202,Ipswich,Non-metropolitan District,140000,125000,15000,10.71428571
+E07000203,Mid Suffolk,Non-metropolitan District,101000,97000,5000,4.95049505
+E07000204,St Edmundsbury,Non-metropolitan District,111000,99000,12000,10.81081081
+E07000205,Suffolk Coastal,Non-metropolitan District,127000,114000,13000,10.23622047
+E07000206,Waveney,Non-metropolitan District,117000,108000,9000,7.692307692
+E13000001,Inner London,Blank cell,3651000,2239000,1406000,38.50999726
+E09000007,Camden,London Borough,263000,137000,125000,47.52851711
+E09000001,City of London [Note 16,London Borough,Not Available,Not Available,Not Available,#VALUE!
+E09000012,Hackney,London Borough,290000,200000,90000,31.03448276
+E09000013,Hammersmith and Fulham,London Borough,180000,115000,64000,35.55555556
+E09000014,Haringey,London Borough,282000,190000,92000,32.62411348
+E09000019,Islington,London Borough,243000,166000,78000,32.09876543
+E09000020,Kensington and Chelsea,London Borough,153000,72000,81000,52.94117647
+E09000022,Lambeth,London Borough,330000,204000,124000,37.57575758
+E09000023,Lewisham,London Borough,313000,210000,103000,32.90734824
+E09000025,Newham,London Borough,363000,205000,158000,43.5261708
+E09000028,Southwark,London Borough,324000,196000,128000,39.50617284
+E09000030,Tower Hamlets,London Borough,328000,199000,129000,39.32926829
+E09000032,Wandsworth,London Borough,326000,205000,120000,36.80981595
+E09000033,Westminster,London Borough,255000,140000,114000,44.70588235
+E13000002,Outer London,Blank cell,5427000,3486000,1940000,35.74718998
+E09000002,Barking and Dagenham,London Borough,223000,125000,98000,43.94618834
+E09000003,Barnet,London Borough,401000,234000,166000,41.39650873
+E09000004,Bexley,London Borough,254000,188000,67000,26.37795276
+E09000005,Brent,London Borough,332000,163000,169000,50.90361446
+E09000006,Bromley,London Borough,340000,279000,60000,17.64705882
+E09000008,Croydon,London Borough,394000,260000,134000,34.01015228
+E09000009,Ealing,London Borough,344000,212000,132000,38.37209302
+E09000010,Enfield,London Borough,344000,228000,115000,33.43023256
+E09000011,Greenwich,London Borough,293000,181000,113000,38.5665529
+E09000015,Harrow,London Borough,251000,142000,109000,43.42629482
+E09000016,Havering,London Borough,265000,221000,44000,16.60377358
+E09000017,Hillingdon,London Borough,314000,203000,111000,35.35031847
+E09000018,Hounslow,London Borough,275000,145000,130000,47.27272727
+E09000021,Kingston upon Thames,London Borough,182000,123000,58000,31.86813187
+E09000024,Merton,London Borough,210000,125000,85000,40.47619048
+E09000026,Redbridge,London Borough,315000,179000,136000,43.17460317
+E09000027,Richmond upon Thames,London Borough,200000,139000,61000,30.5
+E09000029,Sutton,London Borough,209000,147000,61000,29.18660287
+E09000031,Waltham Forest,London Borough,283000,193000,90000,31.80212014
+E06000036,Bracknell Forest,Unitary Authority,121000,101000,19000,15.70247934
+E06000043,Brighton and Hove,Unitary Authority,292000,232000,59000,20.20547945
+E06000046,Isle of Wight,Unitary Authority,137000,129000,8000,5.839416058
+E06000035,Medway,Unitary Authority,283000,241000,42000,14.8409894
+E06000042,Milton Keynes,Unitary Authority,275000,211000,65000,23.63636364
+E06000044,Portsmouth,Unitary Authority,215000,187000,28000,13.02325581
+E06000038,Reading,Unitary Authority,165000,123000,42000,25.45454545
+E06000039,Slough,Unitary Authority,151000,86000,65000,43.04635762
+E06000045,Southampton,Unitary Authority,255000,204000,51000,20
+E06000037,West Berkshire,Unitary Authority,158000,138000,20000,12.65822785
+E06000040,Windsor and Maidenhead,Unitary Authority,148000,116000,32000,21.62162162
+E06000041,Wokingham,Unitary Authority,166000,139000,28000,16.86746988
+E07000004,Aylesbury Vale,Non-metropolitan District,202000,173000,28000,13.86138614
+E07000005,Chiltern,Non-metropolitan District,95000,85000,11000,11.57894737
+E07000006,South Bucks,Non-metropolitan District,70000,62000,8000,11.42857143
+E07000007,Wycombe,Non-metropolitan District,175000,145000,30000,17.14285714
+E07000061,Eastbourne,Non-metropolitan District,104000,90000,13000,12.5
+E07000062,Hastings,Non-metropolitan District,93000,88000,5000,5.376344086
+E07000063,Lewes,Non-metropolitan District,103000,93000,10000,9.708737864
+E07000064,Rother,Non-metropolitan District,94000,86000,9000,9.574468085
+E07000065,Wealden,Non-metropolitan District,161000,151000,10000,6.211180124
+E07000084,Basingstoke and Deane,Non-metropolitan District,178000,161000,17000,9.550561798
+E07000085,East Hampshire,Non-metropolitan District,118000,105000,13000,11.01694915
+E07000086,Eastleigh,Non-metropolitan District,132000,119000,13000,9.848484848
+E07000087,Fareham,Non-metropolitan District,117000,106000,11000,9.401709402
+E07000088,Gosport,Non-metropolitan District,86000,80000,5000,5.813953488
+E07000089,Hart,Non-metropolitan District,94000,77000,17000,18.08510638
+E07000090,Havant,Non-metropolitan District,125000,116000,9000,7.2
+E07000091,New Forest,Non-metropolitan District,178000,164000,14000,7.865168539
+E07000092,Rushmoor,Non-metropolitan District,94000,80000,15000,15.95744681
+E07000093,Test Valley,Non-metropolitan District,125000,110000,15000,12
+E07000094,Winchester,Non-metropolitan District,123000,112000,11000,8.943089431
+E07000105,Ashford,Non-metropolitan District,130000,115000,16000,12.30769231
+E07000106,Canterbury,Non-metropolitan District,164000,147000,18000,10.97560976
+E07000107,Dartford,Non-metropolitan District,110000,96000,14000,12.72727273
+E07000108,Dover,Non-metropolitan District,114000,104000,10000,8.771929825
+E07000112,Folkestone and Hythe,Non-metropolitan District,111000,100000,11000,9.90990991
+E07000109,Gravesham,Non-metropolitan District,109000,84000,24000,22.01834862
+E07000110,Maidstone,Non-metropolitan District,170000,155000,15000,8.823529412
+E07000111,Sevenoaks,Non-metropolitan District,120000,112000,8000,6.666666667
+E07000113,Swale,Non-metropolitan District,149000,137000,12000,8.053691275
+E07000114,Thanet,Non-metropolitan District,144000,137000,7000,4.861111111
+E07000115,Tonbridge and Malling,Non-metropolitan District,130000,118000,12000,9.230769231
+E07000116,Tunbridge Wells,Non-metropolitan District,116000,99000,17000,14.65517241
+E07000177,Cherwell,Non-metropolitan District,146000,123000,23000,15.75342466
+E07000178,Oxford,Non-metropolitan District,151000,104000,46000,30.46357616
+E07000179,South Oxfordshire,Non-metropolitan District,139000,120000,19000,13.66906475
+E07000180,Vale of White Horse,Non-metropolitan District,130000,116000,14000,10.76923077
+E07000181,West Oxfordshire,Non-metropolitan District,107000,91000,16000,14.95327103
+E07000207,Elmbridge,Non-metropolitan District,137000,113000,24000,17.51824818
+E07000208,Epsom and Ewell,Non-metropolitan District,81000,65000,16000,19.75308642
+E07000209,Guildford,Non-metropolitan District,148000,119000,29000,19.59459459
+E07000210,Mole Valley,Non-metropolitan District,87000,76000,11000,12.64367816
+E07000211,Reigate and Banstead,Non-metropolitan District,146000,127000,19000,13.01369863
+E07000212,Runnymede,Non-metropolitan District,88000,68000,20000,22.72727273
+E07000213,Spelthorne,Non-metropolitan District,100000,88000,13000,13
+E07000214,Surrey Heath,Non-metropolitan District,88000,76000,11000,12.5
+E07000215,Tandridge,Non-metropolitan District,87000,80000,7000,8.045977011
+E07000216,Waverley,Non-metropolitan District,122000,114000,8000,6.557377049
+E07000217,Woking,Non-metropolitan District,101000,78000,23000,22.77227723
+E07000223,Adur,Non-metropolitan District,65000,61000,4000,6.153846154
+E07000224,Arun,Non-metropolitan District,160000,140000,20000,12.5
+E07000225,Chichester,Non-metropolitan District,120000,107000,13000,10.83333333
+E07000226,Crawley,Non-metropolitan District,114000,92000,21000,18.42105263
+E07000227,Horsham,Non-metropolitan District,140000,130000,9000,6.428571429
+E07000228,Mid Sussex,Non-metropolitan District,150000,127000,23000,15.33333333
+E07000229,Worthing,Non-metropolitan District,111000,101000,10000,9.009009009
+E06000022,Bath and North East Somerset,Unitary Authority,189000,170000,20000,10.58201058
+E06000028,Bournemouth,Unitary Authority,196000,168000,28000,14.28571429
+E06000023,"Bristol, City of",Unitary Authority,470000,400000,70000,14.89361702
+E06000052,Cornwall [Note 17],Unitary Authority,564000,537000,27000,4.787234043
+E06000024,North Somerset,Unitary Authority,215000,198000,17000,7.906976744
+E06000026,Plymouth,Unitary Authority,261000,240000,21000,8.045977011
+E06000029,Poole,Unitary Authority,151000,133000,18000,11.9205298
+E06000025,South Gloucestershire,Unitary Authority,284000,260000,24000,8.450704225
+E06000030,Swindon,Unitary Authority,223000,187000,36000,16.14349776
+E06000027,Torbay,Unitary Authority,134000,125000,8000,5.970149254
+E06000054,Wiltshire [Note 19],Unitary Authority,496000,464000,32000,6.451612903
+E07000040,East Devon,Non-metropolitan District,143000,135000,8000,5.594405594
+E07000041,Exeter,Non-metropolitan District,130000,118000,13000,10
+E07000042,Mid Devon,Non-metropolitan District,80000,77000,3000,3.75
+E07000043,North Devon,Non-metropolitan District,93000,85000,6000,6.451612903
+E07000044,South Hams,Non-metropolitan District,84000,81000,4000,4.761904762
+E07000045,Teignbridge,Non-metropolitan District,131000,122000,9000,6.870229008
+E07000046,Torridge,Non-metropolitan District,68000,65000,3000,4.411764706
+E07000047,West Devon,Non-metropolitan District,54000,52000,2000,3.703703704
+E07000048,Christchurch,Non-metropolitan District,50000,42000,8000,16
+E07000049,East Dorset,Non-metropolitan District,89000,85000,5000,5.617977528
+E07000050,North Dorset,Non-metropolitan District,69000,65000,4000,5.797101449
+E07000051,Purbeck,Non-metropolitan District,46000,42000,4000,8.695652174
+E07000052,West Dorset,Non-metropolitan District,100000,94000,6000,6
+E07000053,Weymouth and Portland,Non-metropolitan District,64000,62000,2000,3.125
+E07000078,Cheltenham,Non-metropolitan District,116000,101000,15000,12.93103448
+E07000079,Cotswold,Non-metropolitan District,87000,81000,6000,6.896551724
+E07000080,Forest of Dean,Non-metropolitan District,86000,83000,3000,3.488372093
+E07000081,Gloucester,Non-metropolitan District,132000,120000,12000,9.090909091
+E07000082,Stroud,Non-metropolitan District,120000,115000,5000,4.166666667
+E07000083,Tewkesbury,Non-metropolitan District,92000,84000,8000,8.695652174
+E07000187,Mendip,Non-metropolitan District,113000,105000,8000,7.079646018
+E07000188,Sedgemoor,Non-metropolitan District,124000,113000,11000,8.870967742
+E07000189,South Somerset,Non-metropolitan District,166000,150000,15000,9.036144578
+E07000190,Taunton Deane,Non-metropolitan District,117000,108000,9000,7.692307692
+E07000191,West Somerset,Non-metropolitan District,33000,31000,2000,6.060606061
