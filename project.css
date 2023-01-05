@@ -1,0 +1,46 @@
+/* Import a font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+
+/* Set the background color for my page: */
+body{
+    background-color: rgb(234, 237, 237);
+ 
+}
+
+
+/* Choose the appearance of the tags, h1, h3 and p: */
+h1, h2, h3, p{
+    color:rgb(50, 50, 50);
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+
+
+.project1{
+    margin: auto;
+    max-width: 800px;
+    background-color: rgb(234, 237, 237);
+    text-align: center;
+
+}
+
+/* Set the apperance of the class, chart */
+.chart{
+    background-color: white;
+    width: 400px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(7, 7, 7);
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    margin: auto;
+    
+    
+    
+}
