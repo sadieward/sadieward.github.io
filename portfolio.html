@@ -24,21 +24,18 @@
 
 <body>
     <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
-    <div class="myWeek1">
-        <h1>Data Science for Economists.</h1>
-        <h2>Task 1 </h2>
+    <div class="portfolio1">
+        <h1>Portfolio Tasks</h1>
+        <h2>Task 1 - Embedding charts </h2>
         
-        <h3>Bitcoin</h3>
         <p>The first chart tracks the daily price of Bitcoin in USD.</p>
         <div class="chart" id="Chart1"></div>
 
-        <h3>Ether</h3>
         <p>My second chart looks at the daily price of Ether in USD</p>
         <div class="chart" id="Chart2"></div>
 
-        <h2>Task 2 </h2>
+        <h2>Task 2 - IMF lending </h2>
 
-        <h3>IMF lending </h3>
         <p>This is the original chart</p>
         <div class="chart" id="Chart3"></div>
 
@@ -88,6 +85,9 @@
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias officiis voluptatum tempore. Illum nesciunt et iure molestias soluta assumenda, nulla, ipsum saepe quasi dignissimos quisquam hic. Tempora repudiandae facilis nihil.</p>
         <div class="chart" id="Chart20"></div>
 
+        <h2>Task 8 - Advanced Charts</h2>
+        <div class="chart" id="Chart21"></div>
+
 
 
 
@@ -122,6 +122,7 @@
     var myChart18 = "ENGmap_imm.json";
     var myChart19 = "cryptodemographics.json";
     var myChart20 = "Crypto_pricechanges.json";
+    var myChart21 = "Imm_GDP.json";
 
     
     
@@ -147,6 +148,7 @@
     vegaEmbed('#Chart18', myChart18);
     vegaEmbed('#Chart19', myChart19);
     vegaEmbed('#Chart20', myChart20);
+    vegaEmbed('#Chart21', myChart21);
 
     
 </script>
