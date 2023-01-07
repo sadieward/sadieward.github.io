@@ -25,6 +25,16 @@ h1, h3,h2, p{
     margin: auto;
     max-width: 800px;
     background-color: rgb(234, 237, 237);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
 
 
 }
@@ -41,7 +51,7 @@ h1, h3,h2, p{
 /* Set the apperance of the class, chart */
 .chart{
     background-color: white;
-    width:330px;
+    width:500px;
     border-width: 1px;
     border-style: solid;
     border-radius: 5px;
@@ -76,6 +86,58 @@ h1, h3,h2, p{
 
     
 }
+
+#link1{
+    border:2px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color:black;
+    border-style: solid;
+    padding: 15px;
+    border-radius: 1px;
+    text-align: centre;
+    display: inline-block;
+    color: black;
+
+    text-decoration: none;
+}
+
+#link1:hover{
+    background-color: rgba(180, 184, 195, 0.3);
+
+    border:2px;
+    border-color:rgb(127, 127, 107);
+    border-style: solid;
+    
+}
+
+#link2{
+    border:2px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color:rgb(68, 66, 66);
+    border-style: solid;
+    padding: 5px;
+    border-radius: 1px;
+    text-align: centre;
+    display: inline-block;
+    color: rgb(49, 47, 47);
+
+    text-decoration: none;
+}
+
+#link2:hover{
+    background-color: rgba(188, 192, 204, 0.3);
+
+    border:2px;
+    border-color:rgb(127, 127, 107);
+    border-style: solid;
+    
+}
+
+#link3{
+    border:none;
+    
+}
+
 
 
 

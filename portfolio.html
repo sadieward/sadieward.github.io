@@ -23,10 +23,14 @@
 
 
 <body>
+    <a href="project.html" id="link1">My project</a>
+ 
+    <a href="index.html" id="link1">Mainpage</a>
+
     <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
     <div class="portfolio1">
         <h1>Portfolio Tasks</h1>
-        <h2>Task 1 - Embedding charts </h2>
+        <h2>Week 1 - Embedding charts </h2>
         
         <p>The first chart tracks the daily price of Bitcoin in USD.</p>
         <div class="chart" id="Chart1"></div>
@@ -34,7 +38,7 @@
         <p>My second chart looks at the daily price of Ether in USD</p>
         <div class="chart" id="Chart2"></div>
 
-        <h2>Task 2 - IMF lending </h2>
+        <h2>Week 2 - IMF lending </h2>
 
         <p>This is the original chart</p>
         <div class="chart" id="Chart3"></div>
@@ -44,23 +48,29 @@
 
         <p>The most risky year is 1984, where IMF lending as a proportion of GDP is highest - despite lending being higher in 2022 in absolute terms</p>
         
-        <h2>Task 3 </h2>
+        <h2>Week 3 </h2>
         <p>The fist chart compares the Gender Pay Gap in the USA and Britian in a bar chart, with the data source defined
-            inline, in the Vega-lite specification </p>
+            inline, in the Vega-lite specification. The python data conversion was done in <a href="https://colab.research.google.com/drive/1eyOW3xWDwCr36mcqov6w3t2bQJyy5_8F?usp=sharing" id="link3">colab</a>  </p>
         <div class="chart" id="Chart5"></div>
+        <br> 
+        <br>
+        <a href="https://github.com/sadieward/sadieward.github.io/blob/main/gender_pay_gapbar.json" id="link2">Github</a>
 
         <p>I modified it to be a line chart because the small differences betweeen USA in Britian's pay gap are easier to track and more visible</p>
         <div class="chart" id="Chart6"></div>
+        <br>
+        <br>
+        <a href="https://github.com/sadieward/sadieward.github.io/blob/main/gender_pay_gapLINE.json" id="link2">Github</a>
 
-        <h2>Task 4 </h2>
-        <p>This data was retrieved using a scraper in python, shown <a href="https://colab.research.google.com/drive/1M7Gfrm03TAJGD9LK0Bg7hG29LQd9oueO?usp=sharing" id="link1">here</a> </p>
+        <h2>Week 4 - Data Scraping </h2>
+        <p>This data was retrieved using a scraper in python using pandas.read_html, shown <a href="https://colab.research.google.com/drive/1M7Gfrm03TAJGD9LK0Bg7hG29LQd9oueO?usp=sharing" id="link3">here</a> </p>
         <div class="chart" id="Chart7"></div>
         <p>I chose this because Liz Truss resigned this week and i was interested to see how her tenure compared to other previous Prime Ministers</p>
      
 
     
-        <h2>Task 5</h2>
-        <p>This week i used a loop to batch download data from the ONS API. The data analyis is shown here</p>
+        <h2>Week 5 - ONS API</h2>
+        <p>This week i used a loop to batch download data from the ONS API. The data analyis is shown  <a href="https://colab.research.google.com/drive/1A7wUc-sFUj3pf-0Eoxyp72BwXc5V5j-Q?usp=sharing" id="link3">here</a></p>
         <h3>Unemployment rate in the UK</h3>
         <div class="chart5" id="Chart8"></div>
         <div class="chart5" id="Chart9"></div>
@@ -72,11 +82,17 @@
         <div class="chart5" id="Chart15"></div>
         <div class="chart5" id="Chart16"></div>
 
-        <h2>Task 6 </h2>
-        <p>This is a map of the local authority areas in England</p>
+        <h2>Week 7 - Maps </h2>
         <div class="chart" id="Chart17"></div>
-        <p>This shows the proportion of the population not born in the UK by parlimentary constiencies. The data analysis was done in Colab</p>
+        <br>
+        <br>
+        <a href="https://github.com/sadieward/sadieward.github.io/blob/main/BaseMap.json" id="link2">Github</a>
+        <p>Map 2 - Choropleth Map</p>
         <div class="chart" id="Chart18"></div>
+        <p>This map shows most of the foreign-born population is concentrated in urban areas, with London being the area with the highest proportion of non-UK born residents. </p>
+        <br>
+        <br>
+        <a href="https://github.com/sadieward/sadieward.github.io/blob/main/ENGmap_imm.json" id="link2">Github</a>
 
 
         <h2>Task 7 </h2>
@@ -118,7 +134,7 @@
     var myChart14 = "ONS-YCGV.json";
     var myChart15 = "ONS-LF2E.json";
     var myChart16 = "ONS-LFK6.json";
-    var myChart17 = "engLAmap.json";
+    var myChart17 = "BaseMap.json";
     var myChart18 = "ENGmap_imm.json";
     var myChart19 = "cryptodemographics.json";
     var myChart20 = "Crypto_pricechanges.json";
