@@ -3,7 +3,7 @@
 /* FONTS: */
 
 h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(203, 184, 220);
     text-align: center;
 }
@@ -13,7 +13,7 @@ p{
     font-size: larger;
     font-variant: small-caps;
     color:black;
-    background-color: white;
+    background-color: rgb(166, 205, 205);
     text-align: center;
 }
 
@@ -21,7 +21,7 @@ p{
 /* AREAS OF THE PAGE */
 
 body{
-    background-color: rgb(162, 183, 190);
+    background-color: rgb(166, 205, 205);
 }
 
 .wrap{
@@ -47,8 +47,10 @@ a{
     border:2px;
     border-color:black;
     border-style: solid;
-
+    padding: 15px;
     border-radius: 1px;
+
+    text-decoration: none;
 }
 
 #link1:hover{
@@ -64,9 +66,10 @@ a{
     border:2px;
     border-color:black;
     border-style: solid;
-
+    padding: 15px;
     border-radius: 1px;
 
+    text-decoration: none;
 }
 
 #link2:hover{
