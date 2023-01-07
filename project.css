@@ -44,3 +44,48 @@ h1, h2, h3, p{
     
     
 }
+#link1{
+    border:2px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color:black;
+    border-style: solid;
+    padding: 15px;
+    border-radius: 1px;
+    text-align: centre;
+    display: inline-block;
+    color: black;
+
+    text-decoration: none;
+}
+
+#link1:hover{
+    background-color: rgba(180, 184, 195, 0.3);
+
+    border:2px;
+    border-color:rgb(127, 127, 107);
+    border-style: solid;
+    
+}
+
+#link2{
+    border:2px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color:black;
+    border-style: solid;
+    padding: 15px;
+    border-radius: 1px;
+    text-align: centre;
+    display: inline-block;
+    color: black;
+
+    text-decoration: none;
+}
+
+#link2:hover{
+    background-color: rgba(180, 184, 195, 0.3);
+
+    border:2px;
+    border-color:rgb(127, 127, 107);
+    border-style: solid;
+    
+}
