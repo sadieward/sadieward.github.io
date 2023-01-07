@@ -16,7 +16,7 @@
 </head>
 <body>
 
-    <a href="project.html" id="link1">My project</a>
+    <a href="portfolio.html" id="link1">My portfolio</a>
  
     <a href="index.html" id="link2">Mainpage</a>
 
@@ -36,6 +36,9 @@
         <p>GDP per capita</p>
         <div class="chart" id="Chart4"></div>
 
+        <p>Productivity</p>
+        <div class="chart" id="Chart5"></div>
+
     </div>
 
 
@@ -45,11 +48,13 @@ var myChart1 = "ENGmap_imm.json";
 var myChart2 = "pop_pyramid.json"; 
 var myChart3 = "umemp.json"; 
 var myChart4 = "OECDimm_GDP_conts.json"; 
+var myChart5 = "imm_prod.json";
 
 vegaEmbed('#Chart1', myChart1);
 vegaEmbed('#Chart2', myChart2);
 vegaEmbed('#Chart3', myChart3);
 vegaEmbed('#Chart4', myChart4);
+vegaEmbed('#Chart5', myChart5);
 
 </script>
 
