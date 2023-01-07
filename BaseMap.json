@@ -1,0 +1,46 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+     "width":500,
+    "height":500,
+  
+  "title": {
+    "text": "Base Map",
+    "subtitle":["Westminster Parliamentary Constituencies in Northern Ireland"],
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "middle",
+    "color": "black"},
+  
+  
+  
+   "data": {
+    "url": "https://raw.githubusercontent.com/sadieward/sadieward.github.io/main/NIgeo.json",
+    "format": {"type": "topojson", "feature": "wpc"}}, 
+  
+      "projection": {
+        "type": "mercator"
+      }, 
+  
+  
+  
+      "mark": {
+        "type": "geoshape",
+        "stroke": "darkgray",
+        "strokeWidth":0.5,
+        "fill": "slategray"
+      },
+  
+      "encoding": {
+          "tooltip": {"field": "properties.PC_NAME", "title": "Westminster Parliamentary Constituency"}
+  
+          
+        }}
+  
+  
+  
+        
+      
+      
+  
+  
