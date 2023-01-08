@@ -70,9 +70,22 @@
         <a href="https://colab.research.google.com/drive/116J3Dxez5wwM_e4RRTQqXbabz89wkGxm?usp=sharing" id="link2">Colab</a>
 
 
-        <p>The suggests no significant correlation between productivity and immigration, with a very low R squared of 0.12. </p>
+        <p>The suggests no significant correlation between productivity and immigration, with a very low R squared of 0.02. </p>
 
         <h2>Data</h2>
+        <p>Most of the data was obtained from the ONS and the OECD,  and downloaded as csv files. For the first chart, I would have liked to batch download it as an API, however this was only available through FRED, which had only had data for net migration every 5 years up to 2015. I instead downloaded the data as a csv file. </p>
+        <br>
+        <p>For chart 4, I used an API from the ONS, which will therefore automatically update when new data is released. </p>
+        <br>
+        <p>As the project focuses on the UK, I wanted to analyse how productivity within UK industries is impacted by the foreign-born workforce in that industry, however I could only find data for this for 6 industries on the ONS, which would not be enough points to establish an accurate correlation. Instead, I chose to compare OECD countries, as seen in chart 5 and 6. I manually took out countries that were outliers, such as Luxembourg. In chart 5, I scraped data from the statisticstimes to match the countries with their respective continents. This was done in Colab. </p>
+        <br>
+        <h2>Data Cleaning</h2>
+        <p>For charts 3, 5 and 6 I merged datasets using in python using Colab, which avoided any mismatch errors. Colab was also used to convert wide format 3-dimensional data into long format for chart 1.</p>
+        <br>
+        <p>The were issues with the data for chart 3 as the data for the age distribution for the general population went up in increments of 4 up to 90, however the age distribution for migrants only went up in increments of 15 for the later years. I fixed this through performing calculations in excel to allow the datasets to match up. </p>
+        <br>
+        <p>The API data for chart 4 needed to be cleaned within vega-lite, which I found challenging as I don’t have much experience with this, however I eventually got it to work. </p>
+        
 
     </div>
 
