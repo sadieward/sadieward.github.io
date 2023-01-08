@@ -1,546 +1,546 @@
-Country,LOCATION,Foreign pop
-Austria,AUT,8.7
-Austria,AUT,8.8
-Austria,AUT,9.1
-Austria,AUT,9.2
-Austria,AUT,9.2
-Austria,AUT,9.4
-Austria,AUT,9.6
-Austria,AUT,9.7
-Austria,AUT,10
-Austria,AUT,10.3
-Austria,AUT,10.5
-Austria,AUT,10.8
-Austria,AUT,11.3
-Austria,AUT,11.8
-Austria,AUT,12.5
-Austria,AUT,13.4
-Austria,AUT,14.6
-Austria,AUT,15.4
-Austria,AUT,16
-Austria,AUT,16.1
-Belgium,BEL,8.8
-Belgium,BEL,8.4
-Belgium,BEL,8.2
-Belgium,BEL,8.2
-Belgium,BEL,8.2
-Belgium,BEL,8.2
-Belgium,BEL,8.5
-Belgium,BEL,8.7
-Belgium,BEL,9
-Belgium,BEL,9.3
-Belgium,BEL,9.7
-Belgium,BEL,10.2
-Belgium,BEL,10.6
-Belgium,BEL,11.3
-Belgium,BEL,11.3
-Belgium,BEL,11.3
-Belgium,BEL,11.7
-Belgium,BEL,12
-Belgium,BEL,12.1
-Belgium,BEL,12.3
-Canada,CAN,5.1
-Canada,CAN,5.4
-Canada,CAN,5.7
-Canada,CAN,6.6
-Chile,CHL,5.3
-Czechia,CZE,2.2
-Czechia,CZE,1.9
-Czechia,CZE,2.1
-Czechia,CZE,2.3
-Czechia,CZE,2.4
-Czechia,CZE,2.5
-Czechia,CZE,2.7
-Czechia,CZE,3.1
-Czechia,CZE,3.8
-Czechia,CZE,4.2
-Czechia,CZE,4.1
-Czechia,CZE,4
-Czechia,CZE,4.1
-Czechia,CZE,4.1
-Czechia,CZE,4.2
-Czechia,CZE,4.3
-Czechia,CZE,4.4
-Czechia,CZE,4.6
-Czechia,CZE,4.9
-Czechia,CZE,5.3
-Denmark,DNK,4.9
-Denmark,DNK,4.8
-Denmark,DNK,5
-Denmark,DNK,4.9
-Denmark,DNK,5
-Denmark,DNK,4.9
-Denmark,DNK,5
-Denmark,DNK,5.1
-Denmark,DNK,5.4
-Denmark,DNK,5.8
-Denmark,DNK,5.9
-Denmark,DNK,6.2
-Denmark,DNK,6.4
-Denmark,DNK,6.7
-Denmark,DNK,7
-Denmark,DNK,7.5
-Denmark,DNK,8.1
-Denmark,DNK,8.5
-Denmark,DNK,8.8
-Denmark,DNK,9.1
-Estonia,EST,20.1
-Estonia,EST,19.5
-Estonia,EST,15.9
-Estonia,EST,16
-Estonia,EST,16.1
-Estonia,EST,16.1
-Estonia,EST,16.1
-Estonia,EST,16.2
-Estonia,EST,16.4
-Estonia,EST,16.3
-Finland,FIN,1.7
-Finland,FIN,1.8
-Finland,FIN,1.9
-Finland,FIN,2
-Finland,FIN,2
-Finland,FIN,2.1
-Finland,FIN,2.2
-Finland,FIN,2.3
-Finland,FIN,2.5
-Finland,FIN,2.7
-Finland,FIN,2.9
-Finland,FIN,3.1
-Finland,FIN,3.4
-Finland,FIN,3.6
-Finland,FIN,3.8
-Finland,FIN,4
-Finland,FIN,4.2
-Finland,FIN,4.4
-Finland,FIN,4.5
-Finland,FIN,4.7
-France,FRA,5.6
-France,FRA,5.7
-France,FRA,6
-France,FRA,6
-France,FRA,6
-France,FRA,6.1
-France,FRA,6.2
-France,FRA,6.3
-France,FRA,6.4
-France,FRA,6.6
-France,FRA,6.7
-France,FRA,6.8
-France,FRA,7
-France,FRA,7.1
-France,FRA,7.3
-Germany,DEU,8.9
-Germany,DEU,8.9
-Germany,DEU,8.9
-Germany,DEU,8.9
-Germany,DEU,9
-Germany,DEU,8.3
-Germany,DEU,8.3
-Germany,DEU,8.4
-Germany,DEU,8.4
-Germany,DEU,8.4
-Germany,DEU,8.3
-Germany,DEU,8.4
-Germany,DEU,8.6
-Germany,DEU,9
-Germany,DEU,9.5
-Germany,DEU,10.1
-Germany,DEU,11.1
-Germany,DEU,12.2
-Germany,DEU,12.9
-Germany,DEU,13.1
-Greece,GRC,2.6
-Greece,GRC,4.9
-Greece,GRC,5.1
-Greece,GRC,5.8
-Greece,GRC,6.7
-Greece,GRC,7.7
-Greece,GRC,7.5
-Greece,GRC,7
-Greece,GRC,7.2
-Greece,GRC,6.4
-Greece,GRC,6.6
-Greece,GRC,6.5
-Greece,GRC,5.1
-Hungary,HUN,1.5
-Hungary,HUN,1.1
-Hungary,HUN,1.1
-Hungary,HUN,1.1
-Hungary,HUN,1.3
-Hungary,HUN,1.4
-Hungary,HUN,1.5
-Hungary,HUN,1.7
-Hungary,HUN,1.7
-Hungary,HUN,1.8
-Hungary,HUN,2
-Hungary,HUN,2.1
-Hungary,HUN,1.4
-Hungary,HUN,1.4
-Hungary,HUN,1.4
-Hungary,HUN,1.5
-Hungary,HUN,1.6
-Hungary,HUN,1.6
-Hungary,HUN,1.7
-Hungary,HUN,1.9
-Iceland,ISL,3.5
-Iceland,ISL,3.6
-Iceland,ISL,3.5
-Iceland,ISL,3.6
-Iceland,ISL,4.6
-Iceland,ISL,6.1
-Iceland,ISL,7.6
-Iceland,ISL,7.8
-Iceland,ISL,6.8
-Iceland,ISL,6.6
-Iceland,ISL,6.5
-Iceland,ISL,6.6
-Iceland,ISL,6.9
-Iceland,ISL,7.4
-Iceland,ISL,8
-Iceland,ISL,9
-Iceland,ISL,11.2
-Iceland,ISL,13.1
-Ireland,IRL,3.1
-Ireland,IRL,5.6
-Ireland,IRL,9.4
-Ireland,IRL,11.6
-Ireland,IRL,12.6
-Ireland,IRL,12.5
-Ireland,IRL,12.9
-Ireland,IRL,11.5
-Ireland,IRL,11.8
-Ireland,IRL,11.9
-Ireland,IRL,12
-Ireland,IRL,12.9
-Ireland,IRL,11.9
-Ireland,IRL,12.4
-Ireland,IRL,12.8
-Italy,ITA,2.2
-Italy,ITA,2.4
-Italy,ITA,2.5
-Italy,ITA,2.7
-Italy,ITA,3.4
-Italy,ITA,4.1
-Italy,ITA,4.5
-Italy,ITA,5
-Italy,ITA,5.8
-Italy,ITA,5.7
-Italy,ITA,6.1
-Italy,ITA,6.5
-Italy,ITA,6.8
-Italy,ITA,7.3
-Italy,ITA,8.2
-Italy,ITA,8.4
-Italy,ITA,8.5
-Italy,ITA,8.5
-Italy,ITA,8.7
-Italy,ITA,8.7
-Japan,JPN,1.2
-Japan,JPN,1.3
-Japan,JPN,1.4
-Japan,JPN,1.5
-Japan,JPN,1.5
-Japan,JPN,1.6
-Japan,JPN,1.6
-Japan,JPN,1.6
-Japan,JPN,1.7
-Japan,JPN,1.7
-Japan,JPN,1.7
-Japan,JPN,1.7
-Japan,JPN,1.6
-Japan,JPN,1.6
-Japan,JPN,1.6
-Japan,JPN,1.7
-Japan,JPN,1.7
-Japan,JPN,1.9
-Japan,JPN,2
-Japan,JPN,2.2
-Latvia,LVA,22.8
-Latvia,LVA,21.9
-Latvia,LVA,20.8
-Latvia,LVA,19.9
-Latvia,LVA,18.9
-Latvia,LVA,18.1
-Latvia,LVA,17.3
-Latvia,LVA,16.6
-Latvia,LVA,15.9
-Latvia,LVA,15.7
-Latvia,LVA,15.3
-Latvia,LVA,15.1
-Latvia,LVA,14.7
-Latvia,LVA,14.3
-Latvia,LVA,14.1
-Latvia,LVA,14
-Lithuania,LTU,1
-Lithuania,LTU,1
-Lithuania,LTU,1
-Lithuania,LTU,1
-Lithuania,LTU,1
-Lithuania,LTU,0.9
-Lithuania,LTU,0.8
-Lithuania,LTU,0.8
-Lithuania,LTU,0.8
-Lithuania,LTU,0.7
-Lithuania,LTU,0.8
-Lithuania,LTU,0.6
-Lithuania,LTU,0.7
-Lithuania,LTU,1
-Lithuania,LTU,1.7
-Luxembourg,LUX,36
-Luxembourg,LUX,37.3
-Luxembourg,LUX,37.8
-Luxembourg,LUX,38.3
-Luxembourg,LUX,39.3
-Luxembourg,LUX,40.1
-Luxembourg,LUX,41.1
-Luxembourg,LUX,41.8
-Luxembourg,LUX,42.4
-Luxembourg,LUX,43.4
-Luxembourg,LUX,42.6
-Luxembourg,LUX,42.4
-Luxembourg,LUX,43.2
-Luxembourg,LUX,43.8
-Luxembourg,LUX,44.7
-Luxembourg,LUX,45.6
-Luxembourg,LUX,46.8
-Luxembourg,LUX,48.2
-Luxembourg,LUX,48.8
-Luxembourg,LUX,47.3
-Mexico,MEX,0.2
-Mexico,MEX,0.2
-Mexico,MEX,0.2
-Mexico,MEX,0.2
-Mexico,MEX,0.3
-Mexico,MEX,0.3
-Mexico,MEX,0.3
-Mexico,MEX,0.3
-Mexico,MEX,0.4
-Netherlands,NLD,4.1
-Netherlands,NLD,4.2
-Netherlands,NLD,4.3
-Netherlands,NLD,4.3
-Netherlands,NLD,4.3
-Netherlands,NLD,4.3
-Netherlands,NLD,4.2
-Netherlands,NLD,4.1
-Netherlands,NLD,4.2
-Netherlands,NLD,4.3
-Netherlands,NLD,4.4
-Netherlands,NLD,4.6
-Netherlands,NLD,4.7
-Netherlands,NLD,4.7
-Netherlands,NLD,4.8
-Netherlands,NLD,5
-Netherlands,NLD,5.3
-Netherlands,NLD,5.7
-Netherlands,NLD,6.1
-Netherlands,NLD,6.5
-Norway,NOR,3.7
-Norway,NOR,4
-Norway,NOR,4.1
-Norway,NOR,4.4
-Norway,NOR,4.5
-Norway,NOR,4.6
-Norway,NOR,4.8
-Norway,NOR,5.1
-Norway,NOR,5.6
-Norway,NOR,6.3
-Norway,NOR,6.8
-Norway,NOR,7.5
-Norway,NOR,8.1
-Norway,NOR,8.8
-Norway,NOR,9.4
-Norway,NOR,9.8
-Norway,NOR,10.2
-Norway,NOR,10.5
-Norway,NOR,10.6
-Norway,NOR,10.9
-Poland,POL,0.1
-Poland,POL,0.1
-Poland,POL,0.1
-Poland,POL,0.2
-Poland,POL,0.2
-Poland,POL,0.2
-Poland,POL,0.2
-Poland,POL,0.2
-Poland,POL,0.3
-Poland,POL,0.3
-Poland,POL,0.4
-Poland,POL,0.6
-Poland,POL,0.6
-Portugal,PRT,1.9
-Portugal,PRT,2.1
-Portugal,PRT,3.5
-Portugal,PRT,4
-Portugal,PRT,4.2
-Portugal,PRT,4.3
-Portugal,PRT,4
-Portugal,PRT,4.1
-Portugal,PRT,4.2
-Portugal,PRT,4.2
-Portugal,PRT,4.3
-Portugal,PRT,4.2
-Portugal,PRT,4.2
-Portugal,PRT,4
-Portugal,PRT,3.9
-Portugal,PRT,3.8
-Portugal,PRT,3.7
-Portugal,PRT,3.9
-Portugal,PRT,4.1
-Portugal,PRT,4.7
-Republic of Korea,KOR,0.4
-Republic of Korea,KOR,0.5
-Republic of Korea,KOR,0.6
-Republic of Korea,KOR,1
-Republic of Korea,KOR,1
-Republic of Korea,KOR,1.1
-Republic of Korea,KOR,1.4
-Republic of Korea,KOR,1.7
-Republic of Korea,KOR,1.8
-Republic of Korea,KOR,1.9
-Republic of Korea,KOR,2
-Republic of Korea,KOR,2
-Republic of Korea,KOR,1.9
-Republic of Korea,KOR,2
-Republic of Korea,KOR,2.2
-Republic of Korea,KOR,2.3
-Republic of Korea,KOR,2.3
-Republic of Korea,KOR,2.3
-Republic of Korea,KOR,2.3
-Republic of Korea,KOR,2.4
-Slovakia,SVK,0.5
-Slovakia,SVK,0.5
-Slovakia,SVK,0.5
-Slovakia,SVK,0.5
-Slovakia,SVK,0.5
-Slovakia,SVK,0.4
-Slovakia,SVK,0.5
-Slovakia,SVK,0.6
-Slovakia,SVK,0.8
-Slovakia,SVK,1
-Slovakia,SVK,1.2
-Slovakia,SVK,1.3
-Slovakia,SVK,1
-Slovakia,SVK,1
-Slovakia,SVK,1.1
-Slovakia,SVK,1.1
-Slovakia,SVK,1.2
-Slovakia,SVK,1.3
-Slovakia,SVK,1.3
-Slovakia,SVK,1.4
-Slovenia,SVN,3.4
-Slovenia,SVN,3.5
-Slovenia,SVN,4.9
-Slovenia,SVN,4.6
-Slovenia,SVN,4.9
-Slovenia,SVN,5
-Slovenia,SVN,5.4
-Slovenia,SVN,5.7
-Slovenia,SVN,6.1
-Slovenia,SVN,7.3
-Slovenia,SVN,5.9
-Slovenia,SVN,6.6
-Spain,ESP,4.9
-Spain,ESP,6.4
-Spain,ESP,7
-Spain,ESP,8.5
-Spain,ESP,9.3
-Spain,ESP,10
-Spain,ESP,11.1
-Spain,ESP,11.6
-Spain,ESP,11.6
-Spain,ESP,11.4
-Spain,ESP,11.2
-Spain,ESP,10.9
-Spain,ESP,10.1
-Spain,ESP,9.7
-Spain,ESP,9.5
-Spain,ESP,9.5
-Spain,ESP,9.9
-Spain,ESP,10.4
-Sweden,SWE,5.5
-Sweden,SWE,5.4
-Sweden,SWE,5.3
-Sweden,SWE,5.3
-Sweden,SWE,5.3
-Sweden,SWE,5.3
-Sweden,SWE,5.3
-Sweden,SWE,5.4
-Sweden,SWE,5.7
-Sweden,SWE,6
-Sweden,SWE,6.4
-Sweden,SWE,6.7
-Sweden,SWE,6.9
-Sweden,SWE,6.9
-Sweden,SWE,7.2
-Sweden,SWE,7.6
-Sweden,SWE,8
-Sweden,SWE,8.6
-Sweden,SWE,9
-Sweden,SWE,9.3
-Switzerland,CHE,19.2
-Switzerland,CHE,19.3
-Switzerland,CHE,19.6
-Switzerland,CHE,19.9
-Switzerland,CHE,20
-Switzerland,CHE,20.2
-Switzerland,CHE,20.2
-Switzerland,CHE,20.2
-Switzerland,CHE,20.5
-Switzerland,CHE,21.2
-Switzerland,CHE,21.5
-Switzerland,CHE,21.7
-Switzerland,CHE,22.1
-Switzerland,CHE,22.5
-Switzerland,CHE,23
-Switzerland,CHE,23.5
-Switzerland,CHE,23.7
-Switzerland,CHE,23.9
-Switzerland,CHE,24
-Switzerland,CHE,24.2
-Turkey,TUR,0.1
-Turkey,TUR,0.1
-Turkey,TUR,0.2
-Turkey,TUR,0.3
-Turkey,TUR,0.3
-Turkey,TUR,0.4
-Turkey,TUR,0.6
-Turkey,TUR,0.7
-Turkey,TUR,0.8
-Turkey,TUR,1
-Turkey,TUR,1.1
-United Kingdom of Great Britain and Northern Ireland,GBR,3.8
-United Kingdom of Great Britain and Northern Ireland,GBR,4
-United Kingdom of Great Britain and Northern Ireland,GBR,4.4
-United Kingdom of Great Britain and Northern Ireland,GBR,4.4
-United Kingdom of Great Britain and Northern Ireland,GBR,4.6
-United Kingdom of Great Britain and Northern Ireland,GBR,4.7
-United Kingdom of Great Britain and Northern Ireland,GBR,5.6
-United Kingdom of Great Britain and Northern Ireland,GBR,6.3
-United Kingdom of Great Britain and Northern Ireland,GBR,6.8
-United Kingdom of Great Britain and Northern Ireland,GBR,7
-United Kingdom of Great Britain and Northern Ireland,GBR,7.2
-United Kingdom of Great Britain and Northern Ireland,GBR,7.6
-United Kingdom of Great Britain and Northern Ireland,GBR,7.5
-United Kingdom of Great Britain and Northern Ireland,GBR,7.7
-United Kingdom of Great Britain and Northern Ireland,GBR,8
-United Kingdom of Great Britain and Northern Ireland,GBR,8.6
-United Kingdom of Great Britain and Northern Ireland,GBR,9
-United Kingdom of Great Britain and Northern Ireland,GBR,9.3
-United Kingdom of Great Britain and Northern Ireland,GBR,9
-United States of America,USA,6.5
-United States of America,USA,7.1
-United States of America,USA,7
-United States of America,USA,6.7
-United States of America,USA,7
-United States of America,USA,7.2
-United States of America,USA,7.2
-United States of America,USA,7.1
-United States of America,USA,7
-United States of America,USA,7.2
-United States of America,USA,7.1
-United States of America,USA,7
-United States of America,USA,6.9
-United States of America,USA,6.9
-United States of America,USA,7
-United States of America,USA,6.9
+,Country,LOCATION,Value,TIME
+0,Austria,AUT,8.7,2000
+1,Austria,AUT,8.8,2001
+2,Austria,AUT,9.1,2002
+3,Austria,AUT,9.2,2003
+4,Austria,AUT,9.2,2004
+5,Austria,AUT,9.4,2005
+6,Austria,AUT,9.6,2006
+7,Austria,AUT,9.7,2007
+8,Austria,AUT,10,2008
+9,Austria,AUT,10.3,2009
+10,Austria,AUT,10.5,2010
+11,Austria,AUT,10.8,2011
+12,Austria,AUT,11.3,2012
+13,Austria,AUT,11.8,2013
+14,Austria,AUT,12.5,2014
+15,Austria,AUT,13.4,2015
+16,Austria,AUT,14.6,2016
+17,Austria,AUT,15.4,2017
+18,Austria,AUT,16,2018
+19,Austria,AUT,16.1,2019
+20,Belgium,BEL,8.8,2000
+21,Belgium,BEL,8.4,2001
+22,Belgium,BEL,8.2,2002
+23,Belgium,BEL,8.2,2003
+24,Belgium,BEL,8.2,2004
+25,Belgium,BEL,8.2,2005
+26,Belgium,BEL,8.5,2006
+27,Belgium,BEL,8.7,2007
+28,Belgium,BEL,9,2008
+29,Belgium,BEL,9.3,2009
+30,Belgium,BEL,9.7,2010
+31,Belgium,BEL,10.2,2011
+32,Belgium,BEL,10.6,2012
+33,Belgium,BEL,11.3,2013
+34,Belgium,BEL,11.3,2014
+35,Belgium,BEL,11.3,2015
+36,Belgium,BEL,11.7,2016
+37,Belgium,BEL,12,2017
+38,Belgium,BEL,12.1,2018
+39,Belgium,BEL,12.3,2019
+40,Canada,CAN,5.1,2001
+41,Canada,CAN,5.4,2006
+42,Canada,CAN,5.7,2011
+43,Canada,CAN,6.6,2016
+44,Chile,CHL,5.3,2017
+45,Czechia,CZE,2.2,2000
+46,Czechia,CZE,1.9,2001
+47,Czechia,CZE,2.1,2002
+48,Czechia,CZE,2.3,2003
+49,Czechia,CZE,2.4,2004
+50,Czechia,CZE,2.5,2005
+51,Czechia,CZE,2.7,2006
+52,Czechia,CZE,3.1,2007
+53,Czechia,CZE,3.8,2008
+54,Czechia,CZE,4.2,2009
+55,Czechia,CZE,4.1,2010
+56,Czechia,CZE,4,2011
+57,Czechia,CZE,4.1,2012
+58,Czechia,CZE,4.1,2013
+59,Czechia,CZE,4.2,2014
+60,Czechia,CZE,4.3,2015
+61,Czechia,CZE,4.4,2016
+62,Czechia,CZE,4.6,2017
+63,Czechia,CZE,4.9,2018
+64,Czechia,CZE,5.3,2019
+65,Denmark,DNK,4.9,2000
+66,Denmark,DNK,4.8,2001
+67,Denmark,DNK,5,2002
+68,Denmark,DNK,4.9,2003
+69,Denmark,DNK,5,2004
+70,Denmark,DNK,4.9,2005
+71,Denmark,DNK,5,2006
+72,Denmark,DNK,5.1,2007
+73,Denmark,DNK,5.4,2008
+74,Denmark,DNK,5.8,2009
+75,Denmark,DNK,5.9,2010
+76,Denmark,DNK,6.2,2011
+77,Denmark,DNK,6.4,2012
+78,Denmark,DNK,6.7,2013
+79,Denmark,DNK,7,2014
+80,Denmark,DNK,7.5,2015
+81,Denmark,DNK,8.1,2016
+82,Denmark,DNK,8.5,2017
+83,Denmark,DNK,8.8,2018
+84,Denmark,DNK,9.1,2019
+85,Estonia,EST,20.1,2002
+86,Estonia,EST,19.5,2003
+87,Estonia,EST,15.9,2012
+88,Estonia,EST,16,2013
+89,Estonia,EST,16.1,2014
+90,Estonia,EST,16.1,2015
+91,Estonia,EST,16.1,2016
+92,Estonia,EST,16.2,2017
+93,Estonia,EST,16.4,2018
+94,Estonia,EST,16.3,2019
+95,Finland,FIN,1.7,2000
+96,Finland,FIN,1.8,2001
+97,Finland,FIN,1.9,2002
+98,Finland,FIN,2,2003
+99,Finland,FIN,2,2004
+100,Finland,FIN,2.1,2005
+101,Finland,FIN,2.2,2006
+102,Finland,FIN,2.3,2007
+103,Finland,FIN,2.5,2008
+104,Finland,FIN,2.7,2009
+105,Finland,FIN,2.9,2010
+106,Finland,FIN,3.1,2011
+107,Finland,FIN,3.4,2012
+108,Finland,FIN,3.6,2013
+109,Finland,FIN,3.8,2014
+110,Finland,FIN,4,2015
+111,Finland,FIN,4.2,2016
+112,Finland,FIN,4.4,2017
+113,Finland,FIN,4.5,2018
+114,Finland,FIN,4.7,2019
+115,France,FRA,5.6,2000
+116,France,FRA,5.7,2006
+117,France,FRA,6,2007
+118,France,FRA,6,2008
+119,France,FRA,6,2009
+120,France,FRA,6.1,2010
+121,France,FRA,6.2,2011
+122,France,FRA,6.3,2012
+123,France,FRA,6.4,2013
+124,France,FRA,6.6,2014
+125,France,FRA,6.7,2015
+126,France,FRA,6.8,2016
+127,France,FRA,7,2017
+128,France,FRA,7.1,2018
+129,France,FRA,7.3,2019
+130,Germany,DEU,8.9,2000
+131,Germany,DEU,8.9,2001
+132,Germany,DEU,8.9,2002
+133,Germany,DEU,8.9,2003
+134,Germany,DEU,9,2004
+135,Germany,DEU,8.3,2005
+136,Germany,DEU,8.3,2006
+137,Germany,DEU,8.4,2007
+138,Germany,DEU,8.4,2008
+139,Germany,DEU,8.4,2009
+140,Germany,DEU,8.3,2010
+141,Germany,DEU,8.4,2011
+142,Germany,DEU,8.6,2012
+143,Germany,DEU,9,2013
+144,Germany,DEU,9.5,2014
+145,Germany,DEU,10.1,2015
+146,Germany,DEU,11.1,2016
+147,Germany,DEU,12.2,2017
+148,Germany,DEU,12.9,2018
+149,Germany,DEU,13.1,2019
+150,Greece,GRC,2.6,2000
+151,Greece,GRC,4.9,2006
+152,Greece,GRC,5.1,2007
+153,Greece,GRC,5.8,2008
+154,Greece,GRC,6.7,2009
+155,Greece,GRC,7.7,2010
+156,Greece,GRC,7.5,2011
+157,Greece,GRC,7,2012
+158,Greece,GRC,7.2,2013
+159,Greece,GRC,6.4,2014
+160,Greece,GRC,6.6,2015
+161,Greece,GRC,6.5,2016
+162,Greece,GRC,5.1,2017
+163,Hungary,HUN,1.5,2000
+164,Hungary,HUN,1.1,2001
+165,Hungary,HUN,1.1,2002
+166,Hungary,HUN,1.1,2003
+167,Hungary,HUN,1.3,2004
+168,Hungary,HUN,1.4,2005
+169,Hungary,HUN,1.5,2006
+170,Hungary,HUN,1.7,2007
+171,Hungary,HUN,1.7,2008
+172,Hungary,HUN,1.8,2009
+173,Hungary,HUN,2,2010
+174,Hungary,HUN,2.1,2011
+175,Hungary,HUN,1.4,2012
+176,Hungary,HUN,1.4,2013
+177,Hungary,HUN,1.4,2014
+178,Hungary,HUN,1.5,2015
+179,Hungary,HUN,1.6,2016
+180,Hungary,HUN,1.6,2017
+181,Hungary,HUN,1.7,2018
+182,Hungary,HUN,1.9,2019
+183,Iceland,ISL,3.5,2002
+184,Iceland,ISL,3.6,2003
+185,Iceland,ISL,3.5,2004
+186,Iceland,ISL,3.6,2005
+187,Iceland,ISL,4.6,2006
+188,Iceland,ISL,6.1,2007
+189,Iceland,ISL,7.6,2008
+190,Iceland,ISL,7.8,2009
+191,Iceland,ISL,6.8,2010
+192,Iceland,ISL,6.6,2011
+193,Iceland,ISL,6.5,2012
+194,Iceland,ISL,6.6,2013
+195,Iceland,ISL,6.9,2014
+196,Iceland,ISL,7.4,2015
+197,Iceland,ISL,8,2016
+198,Iceland,ISL,9,2017
+199,Iceland,ISL,11.2,2018
+200,Iceland,ISL,13.1,2019
+201,Ireland,IRL,3.1,2000
+202,Ireland,IRL,5.6,2003
+203,Ireland,IRL,9.4,2007
+204,Ireland,IRL,11.6,2008
+205,Ireland,IRL,12.6,2009
+206,Ireland,IRL,12.5,2010
+207,Ireland,IRL,12.9,2011
+208,Ireland,IRL,11.5,2012
+209,Ireland,IRL,11.8,2013
+210,Ireland,IRL,11.9,2014
+211,Ireland,IRL,12,2015
+212,Ireland,IRL,12.9,2016
+213,Ireland,IRL,11.9,2017
+214,Ireland,IRL,12.4,2018
+215,Ireland,IRL,12.8,2019
+216,Italy,ITA,2.2,2000
+217,Italy,ITA,2.4,2001
+218,Italy,ITA,2.5,2002
+219,Italy,ITA,2.7,2003
+220,Italy,ITA,3.4,2004
+221,Italy,ITA,4.1,2005
+222,Italy,ITA,4.5,2006
+223,Italy,ITA,5,2007
+224,Italy,ITA,5.8,2008
+225,Italy,ITA,5.7,2009
+226,Italy,ITA,6.1,2010
+227,Italy,ITA,6.5,2011
+228,Italy,ITA,6.8,2012
+229,Italy,ITA,7.3,2013
+230,Italy,ITA,8.2,2014
+231,Italy,ITA,8.4,2015
+232,Italy,ITA,8.5,2016
+233,Italy,ITA,8.5,2017
+234,Italy,ITA,8.7,2018
+235,Italy,ITA,8.7,2019
+236,Japan,JPN,1.2,2000
+237,Japan,JPN,1.3,2001
+238,Japan,JPN,1.4,2002
+239,Japan,JPN,1.5,2003
+240,Japan,JPN,1.5,2004
+241,Japan,JPN,1.6,2005
+242,Japan,JPN,1.6,2006
+243,Japan,JPN,1.6,2007
+244,Japan,JPN,1.7,2008
+245,Japan,JPN,1.7,2009
+246,Japan,JPN,1.7,2010
+247,Japan,JPN,1.7,2011
+248,Japan,JPN,1.6,2012
+249,Japan,JPN,1.6,2013
+250,Japan,JPN,1.6,2014
+251,Japan,JPN,1.7,2015
+252,Japan,JPN,1.7,2016
+253,Japan,JPN,1.9,2017
+254,Japan,JPN,2,2018
+255,Japan,JPN,2.2,2019
+256,Latvia,LVA,22.8,2004
+257,Latvia,LVA,21.9,2005
+258,Latvia,LVA,20.8,2006
+259,Latvia,LVA,19.9,2007
+260,Latvia,LVA,18.9,2008
+261,Latvia,LVA,18.1,2009
+262,Latvia,LVA,17.3,2010
+263,Latvia,LVA,16.6,2011
+264,Latvia,LVA,15.9,2012
+265,Latvia,LVA,15.7,2013
+266,Latvia,LVA,15.3,2014
+267,Latvia,LVA,15.1,2015
+268,Latvia,LVA,14.7,2016
+269,Latvia,LVA,14.3,2017
+270,Latvia,LVA,14.1,2018
+271,Latvia,LVA,14,2019
+272,Lithuania,LTU,1,2005
+273,Lithuania,LTU,1,2006
+274,Lithuania,LTU,1,2007
+275,Lithuania,LTU,1,2008
+276,Lithuania,LTU,1,2009
+277,Lithuania,LTU,0.9,2010
+278,Lithuania,LTU,0.8,2011
+279,Lithuania,LTU,0.8,2012
+280,Lithuania,LTU,0.8,2013
+281,Lithuania,LTU,0.7,2014
+282,Lithuania,LTU,0.8,2015
+283,Lithuania,LTU,0.6,2016
+284,Lithuania,LTU,0.7,2017
+285,Lithuania,LTU,1,2018
+286,Lithuania,LTU,1.7,2019
+287,Luxembourg,LUX,36,2000
+288,Luxembourg,LUX,37.3,2001
+289,Luxembourg,LUX,37.8,2002
+290,Luxembourg,LUX,38.3,2003
+291,Luxembourg,LUX,39.3,2004
+292,Luxembourg,LUX,40.1,2005
+293,Luxembourg,LUX,41.1,2006
+294,Luxembourg,LUX,41.8,2007
+295,Luxembourg,LUX,42.4,2008
+296,Luxembourg,LUX,43.4,2009
+297,Luxembourg,LUX,42.6,2010
+298,Luxembourg,LUX,42.4,2011
+299,Luxembourg,LUX,43.2,2012
+300,Luxembourg,LUX,43.8,2013
+301,Luxembourg,LUX,44.7,2014
+302,Luxembourg,LUX,45.6,2015
+303,Luxembourg,LUX,46.8,2016
+304,Luxembourg,LUX,48.2,2017
+305,Luxembourg,LUX,48.8,2018
+306,Luxembourg,LUX,47.3,2019
+307,Mexico,MEX,0.2,2010
+308,Mexico,MEX,0.2,2011
+309,Mexico,MEX,0.2,2012
+310,Mexico,MEX,0.2,2013
+311,Mexico,MEX,0.3,2015
+312,Mexico,MEX,0.3,2016
+313,Mexico,MEX,0.3,2017
+314,Mexico,MEX,0.3,2018
+315,Mexico,MEX,0.4,2019
+316,Netherlands,NLD,4.1,2000
+317,Netherlands,NLD,4.2,2001
+318,Netherlands,NLD,4.3,2002
+319,Netherlands,NLD,4.3,2003
+320,Netherlands,NLD,4.3,2004
+321,Netherlands,NLD,4.3,2005
+322,Netherlands,NLD,4.2,2006
+323,Netherlands,NLD,4.1,2007
+324,Netherlands,NLD,4.2,2008
+325,Netherlands,NLD,4.3,2009
+326,Netherlands,NLD,4.4,2010
+327,Netherlands,NLD,4.6,2011
+328,Netherlands,NLD,4.7,2012
+329,Netherlands,NLD,4.7,2013
+330,Netherlands,NLD,4.8,2014
+331,Netherlands,NLD,5,2015
+332,Netherlands,NLD,5.3,2016
+333,Netherlands,NLD,5.7,2017
+334,Netherlands,NLD,6.1,2018
+335,Netherlands,NLD,6.5,2019
+336,Norway,NOR,3.7,2000
+337,Norway,NOR,4,2001
+338,Norway,NOR,4.1,2002
+339,Norway,NOR,4.4,2003
+340,Norway,NOR,4.5,2004
+341,Norway,NOR,4.6,2005
+342,Norway,NOR,4.8,2006
+343,Norway,NOR,5.1,2007
+344,Norway,NOR,5.6,2008
+345,Norway,NOR,6.3,2009
+346,Norway,NOR,6.8,2010
+347,Norway,NOR,7.5,2011
+348,Norway,NOR,8.1,2012
+349,Norway,NOR,8.8,2013
+350,Norway,NOR,9.4,2014
+351,Norway,NOR,9.8,2015
+352,Norway,NOR,10.2,2016
+353,Norway,NOR,10.5,2017
+354,Norway,NOR,10.6,2018
+355,Norway,NOR,10.9,2019
+356,Poland,POL,0.1,2003
+357,Poland,POL,0.1,2007
+358,Poland,POL,0.1,2008
+359,Poland,POL,0.2,2009
+360,Poland,POL,0.2,2010
+361,Poland,POL,0.2,2011
+362,Poland,POL,0.2,2012
+363,Poland,POL,0.2,2013
+364,Poland,POL,0.3,2014
+365,Poland,POL,0.3,2015
+366,Poland,POL,0.4,2016
+367,Poland,POL,0.6,2017
+368,Poland,POL,0.6,2018
+369,Portugal,PRT,1.9,2000
+370,Portugal,PRT,2.1,2001
+371,Portugal,PRT,3.5,2002
+372,Portugal,PRT,4,2003
+373,Portugal,PRT,4.2,2004
+374,Portugal,PRT,4.3,2005
+375,Portugal,PRT,4,2006
+376,Portugal,PRT,4.1,2007
+377,Portugal,PRT,4.2,2008
+378,Portugal,PRT,4.2,2009
+379,Portugal,PRT,4.3,2010
+380,Portugal,PRT,4.2,2011
+381,Portugal,PRT,4.2,2012
+382,Portugal,PRT,4,2013
+383,Portugal,PRT,3.9,2014
+384,Portugal,PRT,3.8,2015
+385,Portugal,PRT,3.7,2016
+386,Portugal,PRT,3.9,2017
+387,Portugal,PRT,4.1,2018
+388,Portugal,PRT,4.7,2019
+389,Republic of Korea,KOR,0.4,2000
+390,Republic of Korea,KOR,0.5,2001
+391,Republic of Korea,KOR,0.6,2002
+392,Republic of Korea,KOR,1,2003
+393,Republic of Korea,KOR,1,2004
+394,Republic of Korea,KOR,1.1,2005
+395,Republic of Korea,KOR,1.4,2006
+396,Republic of Korea,KOR,1.7,2007
+397,Republic of Korea,KOR,1.8,2008
+398,Republic of Korea,KOR,1.9,2009
+399,Republic of Korea,KOR,2,2010
+400,Republic of Korea,KOR,2,2011
+401,Republic of Korea,KOR,1.9,2012
+402,Republic of Korea,KOR,2,2013
+403,Republic of Korea,KOR,2.2,2014
+404,Republic of Korea,KOR,2.3,2015
+405,Republic of Korea,KOR,2.3,2016
+406,Republic of Korea,KOR,2.3,2017
+407,Republic of Korea,KOR,2.3,2018
+408,Republic of Korea,KOR,2.4,2019
+409,Slovakia,SVK,0.5,2000
+410,Slovakia,SVK,0.5,2001
+411,Slovakia,SVK,0.5,2002
+412,Slovakia,SVK,0.5,2003
+413,Slovakia,SVK,0.5,2004
+414,Slovakia,SVK,0.4,2005
+415,Slovakia,SVK,0.5,2006
+416,Slovakia,SVK,0.6,2007
+417,Slovakia,SVK,0.8,2008
+418,Slovakia,SVK,1,2009
+419,Slovakia,SVK,1.2,2010
+420,Slovakia,SVK,1.3,2011
+421,Slovakia,SVK,1,2012
+422,Slovakia,SVK,1,2013
+423,Slovakia,SVK,1.1,2014
+424,Slovakia,SVK,1.1,2015
+425,Slovakia,SVK,1.2,2016
+426,Slovakia,SVK,1.3,2017
+427,Slovakia,SVK,1.3,2018
+428,Slovakia,SVK,1.4,2019
+429,Slovenia,SVN,3.4,2008
+430,Slovenia,SVN,3.5,2009
+431,Slovenia,SVN,4.9,2010
+432,Slovenia,SVN,4.6,2011
+433,Slovenia,SVN,4.9,2012
+434,Slovenia,SVN,5,2013
+435,Slovenia,SVN,5.4,2014
+436,Slovenia,SVN,5.7,2015
+437,Slovenia,SVN,6.1,2016
+438,Slovenia,SVN,7.3,2017
+439,Slovenia,SVN,5.9,2018
+440,Slovenia,SVN,6.6,2019
+441,Spain,ESP,4.9,2002
+442,Spain,ESP,6.4,2003
+443,Spain,ESP,7,2004
+444,Spain,ESP,8.5,2005
+445,Spain,ESP,9.3,2006
+446,Spain,ESP,10,2007
+447,Spain,ESP,11.1,2008
+448,Spain,ESP,11.6,2009
+449,Spain,ESP,11.6,2010
+450,Spain,ESP,11.4,2011
+451,Spain,ESP,11.2,2012
+452,Spain,ESP,10.9,2013
+453,Spain,ESP,10.1,2014
+454,Spain,ESP,9.7,2015
+455,Spain,ESP,9.5,2016
+456,Spain,ESP,9.5,2017
+457,Spain,ESP,9.9,2018
+458,Spain,ESP,10.4,2019
+459,Sweden,SWE,5.5,2000
+460,Sweden,SWE,5.4,2001
+461,Sweden,SWE,5.3,2002
+462,Sweden,SWE,5.3,2003
+463,Sweden,SWE,5.3,2004
+464,Sweden,SWE,5.3,2005
+465,Sweden,SWE,5.3,2006
+466,Sweden,SWE,5.4,2007
+467,Sweden,SWE,5.7,2008
+468,Sweden,SWE,6,2009
+469,Sweden,SWE,6.4,2010
+470,Sweden,SWE,6.7,2011
+471,Sweden,SWE,6.9,2012
+472,Sweden,SWE,6.9,2013
+473,Sweden,SWE,7.2,2014
+474,Sweden,SWE,7.6,2015
+475,Sweden,SWE,8,2016
+476,Sweden,SWE,8.6,2017
+477,Sweden,SWE,9,2018
+478,Sweden,SWE,9.3,2019
+479,Switzerland,CHE,19.2,2000
+480,Switzerland,CHE,19.3,2001
+481,Switzerland,CHE,19.6,2002
+482,Switzerland,CHE,19.9,2003
+483,Switzerland,CHE,20,2004
+484,Switzerland,CHE,20.2,2005
+485,Switzerland,CHE,20.2,2006
+486,Switzerland,CHE,20.2,2007
+487,Switzerland,CHE,20.5,2008
+488,Switzerland,CHE,21.2,2009
+489,Switzerland,CHE,21.5,2010
+490,Switzerland,CHE,21.7,2011
+491,Switzerland,CHE,22.1,2012
+492,Switzerland,CHE,22.5,2013
+493,Switzerland,CHE,23,2014
+494,Switzerland,CHE,23.5,2015
+495,Switzerland,CHE,23.7,2016
+496,Switzerland,CHE,23.9,2017
+497,Switzerland,CHE,24,2018
+498,Switzerland,CHE,24.2,2019
+499,Turkey,TUR,0.1,2008
+500,Turkey,TUR,0.1,2009
+501,Turkey,TUR,0.2,2010
+502,Turkey,TUR,0.3,2011
+503,Turkey,TUR,0.3,2012
+504,Turkey,TUR,0.4,2013
+505,Turkey,TUR,0.6,2014
+506,Turkey,TUR,0.7,2015
+507,Turkey,TUR,0.8,2016
+508,Turkey,TUR,1,2017
+509,Turkey,TUR,1.1,2018
+510,United Kingdom of Great Britain and Northern Ireland,GBR,3.8,2000
+511,United Kingdom of Great Britain and Northern Ireland,GBR,4,2001
+512,United Kingdom of Great Britain and Northern Ireland,GBR,4.4,2002
+513,United Kingdom of Great Britain and Northern Ireland,GBR,4.4,2003
+514,United Kingdom of Great Britain and Northern Ireland,GBR,4.6,2004
+515,United Kingdom of Great Britain and Northern Ireland,GBR,4.7,2005
+516,United Kingdom of Great Britain and Northern Ireland,GBR,5.6,2006
+517,United Kingdom of Great Britain and Northern Ireland,GBR,6.3,2007
+518,United Kingdom of Great Britain and Northern Ireland,GBR,6.8,2008
+519,United Kingdom of Great Britain and Northern Ireland,GBR,7,2009
+520,United Kingdom of Great Britain and Northern Ireland,GBR,7.2,2010
+521,United Kingdom of Great Britain and Northern Ireland,GBR,7.6,2011
+522,United Kingdom of Great Britain and Northern Ireland,GBR,7.5,2012
+523,United Kingdom of Great Britain and Northern Ireland,GBR,7.7,2013
+524,United Kingdom of Great Britain and Northern Ireland,GBR,8,2014
+525,United Kingdom of Great Britain and Northern Ireland,GBR,8.6,2015
+526,United Kingdom of Great Britain and Northern Ireland,GBR,9,2016
+527,United Kingdom of Great Britain and Northern Ireland,GBR,9.3,2017
+528,United Kingdom of Great Britain and Northern Ireland,GBR,9,2018
+529,United States of America,USA,6.5,2002
+530,United States of America,USA,7.1,2003
+531,United States of America,USA,7,2004
+532,United States of America,USA,6.7,2005
+533,United States of America,USA,7,2006
+534,United States of America,USA,7.2,2007
+535,United States of America,USA,7.2,2008
+536,United States of America,USA,7.1,2009
+537,United States of America,USA,7,2010
+538,United States of America,USA,7.2,2011
+539,United States of America,USA,7.1,2012
+540,United States of America,USA,7,2013
+541,United States of America,USA,6.9,2014
+542,United States of America,USA,6.9,2015
+543,United States of America,USA,7,2016
+544,United States of America,USA,6.9,2017
