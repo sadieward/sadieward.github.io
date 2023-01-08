@@ -4,8 +4,8 @@
     "width": 400,
     "height": 300,
    "title": {
-        "text": "Gross GDP & Immigration",
-        "subtitle": "Gross GDP (USD, constant prices), Source:OECD, World Bank",
+        "text": "GDP & Immigration",
+        "subtitle": "GDP (USD, constant prices), Source:OECD, World Bank",
         "subtitleFontStyle":"italic",
         "subtitleFontSize":10,
         "anchor": "start",
