@@ -24,14 +24,14 @@
         <h1>Impact of Immigration</h1>
         <p>Public opinion on immigration, the process by which individuals become permanent residents or citizens of another country,  is divided in the UK, with many misconceptions on the impact on GDP, unemployment and productivity. It’s also highly politized and was a major concern for the public voting in the Brexit Referendum, which resulted in greater restrictions for EU migrants, but had no effect on non-EU migrants. This project sets out to analyse the impact of immigration using real-world data. </p>
 
-        <h2>Chart 1 </h2>
+        <h3>Chart 1 </h3>
         <p>The UK has experienced a steady increase in immigration over the past 3 decades, with net migration dipping during the pandemic, but rising again sharply after.</p>
         <div class="chart" id="Chart1"></div>
         <br>
         <a href="https://github.com/sadieward/sadieward.github.io/blob/main/netmigration.json" id="link2">Github</a>
         <a href="https://colab.research.google.com/drive/1Uk8obtpEJB8sOwnf-BjVGnjYA85Ky8lU?usp=sharing" id="link2">colab</a>
 
-        <h2>Chart 2 </h2>
+        <h3>Chart 2 </h3>
         <p>Most of the foreign-born population in concentrated in urban areas, with London having the greatest proportion of residents not born in the UK. </p>
         <div class="chart" id="Chart2"></div>
         <br>
@@ -39,7 +39,7 @@
         <a href="https://colab.research.google.com/drive/1oYLlFwBEjHTMKU3zDff67aUANnI88BSi?usp=sharing" id="link2">Colab</a>
 
 
-        <p>Chart 3 - Age demographics</p>
+        <h3>Chart 3 - Age demographics</h3>
         <div class="chart" id="Chart3"></div>
         <br>
         <a href="https://github.com/sadieward/sadieward.github.io/blob/main/pop_pyramid.json" id="link2">Github</a>
@@ -47,15 +47,25 @@
 
         <p>This chart shows the immigrants coming into the UK are more likely to be young, working age individuals, with most of the distribution under the age of 45. This contrasts with the ageing current UK population, where the distribution is skewed towards the older retired ages. This suggests immigration improves the age dependency ratio and has positive fiscal effects on the economy</p>
 
-        <p>Chart 4 - Unemployment </p>
+        <h3>Chart 4 - Unemployment </h3>
         <div class="chart" id="Chart4"></div>
         <br>
         <a href="https://github.com/sadieward/sadieward.github.io/blob/main/umemp.json" id="link2">Github</a>
 
         <p>A major concern of the public is migrants arriving in the UK with little willingness to work, however this chart shows the unemployment for the UK-born and EU-born are very similar. It is slightly higher for non-EU born migrants; however, they have converged slightly over the last 2 decades, with the unemployment rate for non-EU born migrants only being 2 percentage points higher in 2022.</p>
 
-        <p>Chart 5 - GDP</p>
-        <div class="chart" id="Chart5"></div>
+       <h3>Chart 5 - Gross GDP</h3>
+       <div class="chart" id="Chart5"></div>
+       <br>
+       <a href="https://github.com/sadieward/sadieward.github.io/blob/main/grossgdp_imm.json" id="link2">Github</a>
+       <a href="https://colab.research.google.com/drive/13KtDqWaEmd9U69C97cPp32OwXVN-s56y?usp=sharing" id="link2">Colab</a>
+
+
+
+
+       
+        <h3>Chart 6 - GDP per capita</h3>
+        <div class="chart" id="Chart6"></div>
         <br>
         <a href="https://github.com/sadieward/sadieward.github.io/blob/main/ProjectCharts/OECDimm_GDP_conts.json" id="link2">Github</a>
         <a href="https://colab.research.google.com/drive/116J3Dxez5wwM_e4RRTQqXbabz89wkGxm?usp=sharing" id="link2">Colab</a>
@@ -63,8 +73,8 @@
 
         <p>This shows a positive correlation between GDP per capita and immigration, with an R squared of 0.64. This does not, however, imply a causal relationship. </p>
 
-        <p>Chart 6 - Productivity</p>
-        <div class="chart" id="Chart6"></div>
+        <h3>Chart 7 - Productivity</h3>
+        <div class="chart" id="Chart7"></div>
         <br>
         <a href="https://github.com/sadieward/sadieward.github.io/blob/main/ProjectCharts/OECDimm_GDP_conts.json" id="link2">Github</a>
         <a href="https://colab.research.google.com/drive/116J3Dxez5wwM_e4RRTQqXbabz89wkGxm?usp=sharing" id="link2">Colab</a>
@@ -96,8 +106,9 @@ var myChart1 = "netmigration.json";
 var myChart2 = "ENGmap_imm.json"; 
 var myChart3 = "pop_pyramid.json"; 
 var myChart4 = "umemp.json"; 
-var myChart5 = "OECDimm_GDP_conts.json"; 
-var myChart6 = "imm_prod.json";
+var myChart5 = "grossgdp_imm.json"; 
+var myChart6 = "OECDimm_GDP_conts.json"; 
+var myChart7 = "imm_prod.json";
 
 vegaEmbed('#Chart1', myChart1);
 vegaEmbed('#Chart2', myChart2);
@@ -105,6 +116,8 @@ vegaEmbed('#Chart3', myChart3);
 vegaEmbed('#Chart4', myChart4);
 vegaEmbed('#Chart5', myChart5);
 vegaEmbed('#Chart6', myChart6);
+vegaEmbed('#Chart7', myChart7);
+
 
 
 </script>
