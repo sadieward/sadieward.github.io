@@ -54,11 +54,12 @@
 
         <p>A major concern of the public is migrants arriving in the UK with little willingness to work, however this chart shows the unemployment for the UK-born and EU-born are very similar. It is slightly higher for non-EU born migrants; however, they have converged slightly over the last 2 decades, with the unemployment rate for non-EU born migrants only being 2 percentage points higher in 2022.</p>
 
-       <h3>Chart 5 - Gross GDP</h3>
+       <h3>Chart 5 - GDP</h3>
        <div class="chart" id="Chart5"></div>
        <br>
        <a href="https://github.com/sadieward/sadieward.github.io/blob/main/grossgdp_imm.json" id="link2">Github</a>
        <a href="https://colab.research.google.com/drive/13KtDqWaEmd9U69C97cPp32OwXVN-s56y?usp=sharing" id="link2">Colab</a>
+       <p>This chart shows that, as expected, countries with a higher number of immigrants have a larger economy, and therefore greater GDP. This is consistent with the theory that immigration increases the labour supply and demand in the economy, stimulating growth. </p>
 
 
 
@@ -92,10 +93,12 @@
         <h2>Data Cleaning</h2>
         <p>For charts 3, 5 and 6 I merged datasets using in python using Colab, which avoided any mismatch errors. Colab was also used to convert wide format 3-dimensional data into long format for chart 1.</p>
         <br>
-        <p>The were issues with the data for chart 3 as the data for the age distribution for the general population went up in increments of 4 up to 90, however the age distribution for migrants only went up in increments of 15 for the later years. I fixed this through performing calculations in excel to allow the datasets to match up. </p>
+        <p>The were issues with the data for chart 3 as the data for the age distribution for the general population went up in increments of 4 up to 90, however the age distribution for immigrants only went up in increments of 15 for the later years. I fixed this through performing calculations in excel to allow the datasets to match up. </p>
         <br>
         <p>The API data for chart 4 needed to be cleaned within vega-lite, which I found challenging as I don’t have much experience with this, however I eventually got it to work. </p>
         
+        <h2>Conclusion</h2>
+        <p>To conclude, immigration appears to have overall positive effects on the economy as the influx of young working age individuals reduces the age dependency ratio, having positive fiscal effects. It is also associated with higher levels of GDP and GDP per capita, however this is not necessarily a causal relationship. As no correlation was found for productivity and immigration, it may be insightful to analyse industry data. </p>
 
     </div>
 
