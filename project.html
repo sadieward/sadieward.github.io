@@ -22,10 +22,10 @@
 
     <div class="project1">
         <h1>Impact of Immigration</h1>
-        <p>Public opinion on immigration, the process by which individuals become permanent residents or citizens of another country,  is divided in the UK, with many misconceptions on the impact on GDP, unemployment and productivity. It’s also highly politized and was a major concern for the public voting in the Brexit Referendum, which resulted in greater restrictions for EU migrants, but had no effect on non-EU migrants. This project sets out to analyse the impact of immigration using real-world data. </p>
+        <p>Immigration is the process by which individuals become permanent residents or citizens of another country. Public opinion on it is divided in the UK, with many misconceptions on the impact on GDP, unemployment and productivity. It’s also highly politized and was a major concern for the public voting in the Brexit Referendum, which resulted in greater restrictions for EU migrants. This project sets out to analyse the impact of immigration using real-world data.  </p>
 
         <h3>Chart 1 </h3>
-        <p>The UK has experienced a steady increase in immigration over the past 3 decades, with net migration dipping during the pandemic, but rising again sharply after.</p>
+        <p>The UK has experienced a steady increase in immigration over the past 3 decades, with net migration dipping during the pandemic, but rising again sharply after with immigration into the UK in 2022 reaching around 1.1 million. </p>
         <div class="chart" id="Chart1"></div>
         <br>
         <a href="https://github.com/sadieward/sadieward.github.io/blob/main/netmigration.json" id="link2">Github</a>
@@ -70,35 +70,34 @@
         <br>
         <a href="https://github.com/sadieward/sadieward.github.io/blob/main/ProjectCharts/OECDimm_GDP_conts.json" id="link2">Github</a>
         <a href="https://colab.research.google.com/drive/116J3Dxez5wwM_e4RRTQqXbabz89wkGxm?usp=sharing" id="link2">Colab</a>
+        <p>In order to assess whether immigration has an impact on living standards, I regressed the proportion of foreign-born population on GDP per capita. This shows a positive correlation between GDP per capita and immigration, with an R squared of 0.64. This does not, however, imply a causal relationship. </p>
 
-
-        <p>This shows a positive correlation between GDP per capita and immigration, with an R squared of 0.64. This does not, however, imply a causal relationship. </p>
 
         <h3>Chart 7 - Productivity</h3>
         <div class="chart" id="Chart7"></div>
         <br>
         <a href="https://github.com/sadieward/sadieward.github.io/blob/main/ProjectCharts/OECDimm_GDP_conts.json" id="link2">Github</a>
         <a href="https://colab.research.google.com/drive/116J3Dxez5wwM_e4RRTQqXbabz89wkGxm?usp=sharing" id="link2">Colab</a>
+        <p>The suggests no significant correlation between productivity and immigration, with a very low R squared of 0.02, indicating a poor fit of the regression line.</p>
 
 
-        <p>The suggests no significant correlation between productivity and immigration, with a very low R squared of 0.02. </p>
 
         <h2>Data</h2>
         <p>Most of the data was obtained from the ONS and the OECD,  and downloaded as csv files. For the first chart, I would have liked to batch download it as an API, however this was only available through FRED, which had only had data for net migration every 5 years up to 2015. I instead downloaded the data as a csv file. </p>
         <br>
         <p>For chart 4, I used an API from the ONS, which will therefore automatically update when new data is released. </p>
         <br>
-        <p>As the project focuses on the UK, I wanted to analyse how productivity within UK industries is impacted by the foreign-born workforce in that industry, however I could only find data for this for 6 industries on the ONS, which would not be enough points to establish an accurate correlation. Instead, I chose to compare OECD countries, as seen in chart 5 and 6. I manually took out countries that were outliers, such as Luxembourg. In chart 5, I scraped data from the statisticstimes to match the countries with their respective continents. This was done in Colab. </p>
+        <p>As the project focuses on the UK, I wanted to analyse how productivity within UK industries is impacted by the foreign-born workforce in that industry, however I could only find data for this for 6 industries on the ONS, which would not be enough points to establish an accurate correlation. Instead, I chose to compare OECD countries, as seen in chart 5 and 6. I manually took out countries that were outliers, such as Luxembourg. In chart 5, I scraped data from the <a href="https://statisticstimes.com/geography/countries-by-continents.php" id="link3">statisticstimes</a> to match the countries with their respective continents. This was done in Colab. </p>
         <br>
         <h2>Data Cleaning</h2>
         <p>For charts 3, 5 and 6 I merged datasets using in python using Colab, which avoided any mismatch errors. Colab was also used to convert wide format 3-dimensional data into long format for chart 1.</p>
         <br>
-        <p>The were issues with the data for chart 3 as the data for the age distribution for the general population went up in increments of 4 up to 90, however the age distribution for immigrants only went up in increments of 15 for the later years. I fixed this through performing calculations in excel to allow the datasets to match up. </p>
+        <p>There were issues with the data for chart 3 as the data for the age distribution for the general population went up in increments of 4 up to 90, however the age distribution for immigrants only went up in increments of 15 for the later years. I fixed this through performing calculations in excel to allow the datasets to match up. </p>
         <br>
         <p>The API data for chart 4 needed to be cleaned within vega-lite, which I found challenging as I don’t have much experience with this, however I eventually got it to work. </p>
         
         <h2>Conclusion</h2>
-        <p>To conclude, immigration appears to have overall positive effects on the economy as the influx of young working age individuals reduces the age dependency ratio, having positive fiscal effects. It is also associated with higher levels of GDP and GDP per capita, however this is not necessarily a causal relationship. As no correlation was found for productivity and immigration, it may be insightful to analyse industry data. </p>
+        <p>To conclude, immigration appears to have overall positive effects on the economy as the influx of young working age individuals reduces the age dependency ratio, having positive fiscal effects. It is also associated with higher levels of GDP and GDP per capita, however this is not necessarily a causal relationship as it may also be the case that people chose to move to countries with more prosperous economies. As no significant correlation was found for productivity and immigration, it may be insightful to analyse industry data within the UK.  </p>
 
     </div>
 
